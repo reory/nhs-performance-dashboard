@@ -109,13 +109,11 @@ nhs_performance_dashboard/
 
 # 💻 Tech Stack
 
-- Backend: FastAPI (Python 3.x), Uvicorn (ASGI Server)
-
-- Data Engine: DuckDB (OLAP Analytics), Polars, Pydantic & Pandas
-
-- Frontend: Tailwind CSS, Jinja2 (Modular Components), Chart.js
-
-- Clinical logic: nhs-number (Validation), Faker (Synthetic Patient Generation)
+* **Framework:** [FastAPI](https://fastapi.tiangolo.com/) (High-performance Python API)
+* **Database:** [DuckDB](https://duckdb.org/) (In-process analytical database)
+* **Validation:** [Pydantic](https://docs.pydantic.dev/) & [nhs-number](https://pypi.orgproject/nhs-number/)
+* **Testing:** [Pytest](https://docs.pytest.org/) (Unit and Logic testing)
+* **Frontend:** Jinja2 Templates, HTML5, CSS3 (NHS Frontend Framework styles)
 
 ---
 
@@ -169,6 +167,7 @@ Implement an XGBoost or Scikit-Learn model to predict potential breach "hotspots
 
 - [ ] Geospatial Regional Mapping
 Integrate a Folium/Leaflet map component to visualize patient distribution across West Yorkshire, allowing trust managers to identify geographical barriers to care access.
+
 </details>
 
 ---
