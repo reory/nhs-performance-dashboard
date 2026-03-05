@@ -1,0 +1,17 @@
+<script>
+    // js Logic to calculate the 18-week breaches and averages
+    (function() {
+        const patients = {{ patients | tojson }};
+        let breaches = 0;
+        let totalWait = 0;
+
+        patients.forEach(p => {
+            if (p.wait_weeks >= 18) breaches++;
+            totalWait += p.wait_weeks;
+        });
+
+        document.getElementById('breachCount').innerText = breaches;
+        // commented out below line for debugging purposes.
+    //  document.getElementById('avgWait').innerText = (totalWait / patients.length).toFixed(1);
+    })();
+</script>

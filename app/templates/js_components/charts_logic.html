@@ -1,0 +1,74 @@
+<script>
+(function() {
+    // Get the data from the backend
+    const patients = {{ patients | tojson }};
+    
+    // Process data for charts
+    const specialtyCounts = {};
+    const priorityCounts = {
+        'Urgent': 0,
+        'Routine': 0,
+        'Two Week Wait (Cancer)': 0
+    };
+
+    patients.forEach(p => {
+        // Count Specialties
+        specialtyCounts[p.specialty] = (specialtyCounts[p.specialty] || 0) + 1;
+        
+        // Count Priorities
+        if (priorityCounts.hasOwnProperty(p.priority)) {
+            priorityCounts[p.priority]++;
+        }
+    });
+
+    // Specialty Bar Chart
+    const ctxSpecialty = document.getElementById('specialtyChart').getContext('2d');
+    new Chart(ctxSpecialty, {
+        type: 'bar',
+        data: {
+            labels: Object.keys(specialtyCounts),
+            datasets: [{
+                label: 'Patients',
+                data: Object.values(specialtyCounts),
+                backgroundColor: '#3b82f6', // Clinical Blue
+                borderRadius: 6
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: { legend: { display: false } },
+            scales: {
+                y: { beginAtZero: true, ticks: { color: '#9ca3af' }, grid: { color: '#374151' } },
+                x: { ticks: { color: '#9ca3af' }, grid: { display: false } }
+            }
+        }
+    });
+
+    // Priority Doughnut Chart
+    const ctxPriority = document.getElementById('priorityChart').getContext('2d');
+    new Chart(ctxPriority, {
+        type: 'doughnut',
+        data: {
+            labels: Object.keys(priorityCounts),
+            datasets: [{
+                data: Object.values(priorityCounts),
+                backgroundColor: ['#f97316', '#3b82f6', '#ef4444'], // Urgent, Routine, Cancer
+                borderWidth: 0,
+                hoverOffset: 10
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            cutout: '70%',
+            plugins: {
+                legend: {
+                    position: 'right',
+                    labels: { color: '#9ca3af', padding: 20, font: { size: 12 } }
+                }
+            }
+        }
+    });
+})();
+</script>

@@ -1,0 +1,33 @@
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+    <!-- Two‑column responsive grid: 1 column on mobile, 2 on medium+ screens -->
+
+    <div class="bg-gray-800 p-6 rounded-xl shadow-sm border border-gray-700">
+        <!-- Card container with dark background, padding, rounded corners, and subtle border -->
+
+        <h3 class="text-sm font-bold text-gray-400 uppercase mb-4">
+            <!-- Section title styling -->
+            Volume by Specialty
+        </h3>
+
+        <div style="position: relative; height: 300px;">
+            <!-- Fixed-height wrapper so the Chart.js canvas scales correctly -->
+            <canvas id="specialtyChart"></canvas>
+            <!-- Chart.js will target this canvas to render the Specialty chart -->
+        </div>
+    </div>
+
+    <div class="bg-gray-800 p-6 rounded-xl shadow-sm border border-gray-700">
+        <!-- Second card container, same styling for visual consistency -->
+
+        <h3 class="text-sm font-bold text-gray-400 uppercase mb-4">
+            <!-- Section title styling -->
+            Priority Distribution
+        </h3>
+
+        <div style="position: relative; height: 300px;">
+            <!-- Fixed-height wrapper for the Priority chart -->
+            <canvas id="priorityChart"></canvas>
+            <!-- Chart.js will target this canvas to render the Priority chart -->
+        </div>
+    </div>
+</div>

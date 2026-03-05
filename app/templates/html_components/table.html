@@ -1,0 +1,96 @@
+<!-- 
+    Full waiting‑list table component.
+    Includes a header with total count and a scrollable table showing all patients,
+    with conditional colouring for priority and 18‑week breach status.
+-->
+
+<div class="bg-white rounded-xl shadow-sm border border-gray-200 overflow-hidden">
+
+    <!-- Table header with title and total patient count -->
+    <div class="p-6 border-b border-gray-200 flex justify-between items-center bg-gray-50">
+        <h2 class="text-xl font-bold text-gray-800">Current Waiting List</h2>
+
+        <span class="px-3 py-1 bg-clinical-blue/10 text-clinical-blue rounded-full text-sm font-medium">
+            Total Patients: <span id="tablePatientCount">{{ patients|length }}</span>
+        </span>
+    </div>
+
+    <!-- Scrollable table wrapper -->
+    <div class="overflow-x-auto">
+        <table class="w-full text-left border-collapse">
+
+            <!-- Table column headers -->
+            <thead>
+                <tr class="bg-gray-100 text-gray-600 uppercase text-xs font-semibold">
+                    <th class="px-6 py-4">GP Practice</th>
+                    <th class="px-6 py-4">NHS ID</th>
+                    <th class="px-6 py-4">Patient Name</th>
+                    <th class="px-6 py-4">D.O.B</th>
+                    <th class="px-6 py-4">Specialty</th>
+                    <th class="px-6 py-4">Priority</th>
+                    <th class="px-6 py-4">Ref. Date</th>
+                    <th class="px-6 py-4 text-center">Weeks Waiting</th>
+                </tr>
+            </thead>
+
+            <!-- Table body with dynamic rows -->
+            <tbody class="divide-y divide-gray-100">
+                {% for patient in patients %}
+                <tr class="hover:bg-gray-50 transition-colors">
+
+                    <!-- GP Practice -->
+                    <td class="px-6 py-4 text-sm font-medium text-gray-700">
+                        {{ patient.gp_practice }}
+                    </td>
+
+                    <!-- NHS ID -->
+                    <td class="px-6 py-4 text-sm text-gray-500 font-mono">
+                        {{ patient.nhs_id }}
+                    </td>
+
+                    <!-- Patient Name -->
+                    <td class="px-6 py-4 text-sm text-gray-900 font-semibold">
+                        {{ patient.name }}
+                    </td>
+
+                    <!-- Date of Birth -->
+                    <td class="px-6 py-4 text-sm text-gray-900 font-semibold">
+                        {{ patient.dob }}
+                    </td>
+
+                    <!-- Specialty -->
+                    <td class="px-6 py-4 text-sm text-gray-600">
+                        {{ patient.specialty }}
+                    </td>
+
+                    <!-- Priority badge with conditional colours -->
+                    <td class="px-6 py-4">
+                        <span class="px-2 py-1 rounded text-xs font-bold
+                            {% if patient.priority == 'Urgent' %} bg-orange-100 text-orange-700
+                            {% elif patient.priority == 'Two Week Wait (Cancer)' %} bg-red-100 text-red-700
+                            {% else %} bg-blue-100 text-blue-700 {% endif %}">
+                            {{ patient.priority }}
+                        </span>
+                    </td>
+
+                    <!-- Referral date -->
+                    <td class="px-6 py-4 text-sm text-gray-600">
+                        {{ patient.referral_date }}
+                    </td>
+
+                    <!-- Weeks waiting with red/green indicator -->
+                    <td class="px-6 py-4 text-center">
+                        <span class="text-sm font-bold 
+                            {% if patient.wait_weeks >= 18 %} text-red-600 
+                            {% else %} text-green-600 {% endif %}">
+                            {{ patient.wait_weeks }}
+                        </span>
+                    </td>
+
+                </tr>
+                {% endfor %}
+            </tbody>
+
+        </table>
+    </div>
+</div>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}NHS Performance Dashboard{% endblock %}</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        .bg-clinical-blue { background-color: #97d4f5; }
+        .text-clinical-blue { color: #075985; }
+        html { scroll-behavior: smooth; }
+    </style>
+</head>
+<body class="bg-gray-950 font-sans text-gray-200"> {% include "html_components/navbar.html" %}
+
+    <main class="container mx-auto py-8 px-4">
+        {% block content %}
+        {% endblock %}
+    </main>
+
+    <footer class="border-t border-gray-800 mt-12 py-6 text-center text-gray-500 text-sm">
+        &copy; 2026 Python Developer Data Systems Pilot — Internal Use Only
+    </footer>
+
+</body>
+</html>

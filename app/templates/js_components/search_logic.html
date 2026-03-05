@@ -1,0 +1,48 @@
+<script>
+(function() {
+    document.addEventListener('keyup', function(e) {
+        if (e.target && e.target.id === 'patientSearch') {
+            const term = e.target.value.toLowerCase();
+            const tableRows = document.querySelectorAll('tbody tr');
+            const statCardCount = document.querySelector('.patient-count-display');
+            const tableHeaderCount = document.getElementById('tablePatientCount'); 
+
+            let visibleCount = 0;
+
+            tableRows.forEach(row => {
+                if (row.cells.length > 0) {
+                    const text = row.textContent.toLowerCase();
+                    if (text.includes(term)) {
+                        row.style.display = "";
+                        visibleCount++;
+                    } else {
+                        row.style.display = "none";
+                    }
+                }
+            });
+
+            const displayCount = term ? visibleCount : tableRows.length;
+
+            if (statCardCount) statCardCount.textContent = displayCount;
+            if (tableHeaderCount) tableHeaderCount.textContent = displayCount; 
+        }
+    });
+
+    document.addEventListener('click', function(e) {
+        if (e.target && e.target.id === 'clearSearch') {
+            const searchInput = document.getElementById('patientSearch');
+            const tableRows = document.querySelectorAll('tbody tr');
+            const statCardCount = document.querySelector('.patient-count-display');
+            const tableHeaderCount = document.getElementById('tablePatientCount'); 
+
+            if (searchInput) searchInput.value = '';
+            tableRows.forEach(row => row.style.display = "");
+
+            const total = tableRows.length;
+            if (statCardCount) statCardCount.textContent = total;
+            if (tableHeaderCount) tableHeaderCount.textContent = total;
+            if (searchInput) searchInput.focus();
+        }
+    });
+})();
+</script>

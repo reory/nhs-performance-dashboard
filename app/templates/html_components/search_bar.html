@@ -1,0 +1,31 @@
+<!-- 
+    Search bar section for filtering patient records.
+    Includes a search input with icon and a clear button.
+-->
+
+<div class="mb-6">
+    <div class="flex items-center gap-3 max-w-2xl">
+
+        <!-- Search input with embedded magnifying glass icon -->
+        <div class="relative flex-grow">
+            <span class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                <svg class="h-5 w-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd" />
+                </svg>
+            </span>
+
+            <input type="text"
+                   id="patientSearch"
+                   class="block w-full pl-10 pr-3 py-2 border border-gray-700 rounded-lg leading-5 bg-gray-800 text-gray-200 placeholder-gray-500 focus:outline-none focus:ring-1 focus:ring-blue-500 focus:border-blue-500 sm:text-sm"
+                   placeholder="Search by Client Name, NHS ID, or Specialty...">
+        </div>
+
+        <!-- Clear search button -->
+        <button type="button"
+                id="clearSearch"
+                class="px-4 py-2 bg-gray-700 hover:bg-gray-600 text-gray-200 text-sm font-medium rounded-lg border border-gray-600 transition-all shadow-sm whitespace-nowrap">
+            Clear
+        </button>
+
+    </div>
+</div>

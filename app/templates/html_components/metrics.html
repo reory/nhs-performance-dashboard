@@ -1,0 +1,105 @@
+<!-- 
+    Four‑card KPI grid showing key operational metrics:
+    - 18+ week breaches
+    - Cancer (2WW) referrals
+    - Average wait time with target indicator
+    - 18‑week status summary with alert styling
+-->
+
+<div class="grid grid-cols-1 md:grid-cols-4 gap-6 mb-8">
+
+    <!-- Card 1: 18+ Week Breaches -->
+    <div class="bg-gray-800 p-5 rounded-xl border border-gray-700 shadow-sm">
+        <p class="text-xs font-bold text-gray-400 uppercase tracking-wider">18+ Week Breaches</p>
+
+        <div class="flex items-end justify-between mt-2">
+            <h3 class="text-3xl font-bold text-white mt-1" id="breachCount">
+                {{ breach_count }}
+            </h3>
+
+            <div class="text-clinical-blue font-medium">
+                Total Patients: 
+                <span class="patient-count-display">{{ total_count }}</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Card 2: Cancer (2WW) Referrals -->
+    <div class="bg-gray-800 p-5 rounded-xl border border-gray-700 shadow-sm">
+        <p class="text-xs font-bold text-gray-400 uppercase tracking-wider">Cancer (2WW) Referrals</p>
+
+        <div class="flex items-end justify-between mt-2">
+            <h3 class="text-3xl font-bold text-orange-400" id="cancerCount">
+                {{ cancer_count }}
+            </h3>
+
+            <span class="text-xs text-gray-500 pb-1">High Priority</span>
+        </div>
+    </div>
+
+    <!-- Card 3: Average Wait Time with dynamic target indicator -->
+    <div class="bg-gray-800 p-5 rounded-xl border border-gray-700 shadow-sm">
+        <p class="text-xs font-bold text-gray-400 uppercase tracking-wider">Avg. Wait Time</p>
+
+        <div class="flex items-end justify-between mt-2">
+            <div>
+                <h3 class="text-3xl font-bold text-blue-400" id="avgWait">
+                    {{ avg_wait }}
+                </h3>
+
+                <!-- Conditional indicator: green if under target, red if above -->
+                <div class="flex items-center mt-1">
+                    {% if avg_wait < 18 %}
+                        <span class="text-green-500 flex items-center text-xs font-medium">
+                            <svg class="w-3 h-3 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
+                                      d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
+                            </svg>
+                            Within Target
+                        </span>
+                    {% else %}
+                        <span class="text-red-500 flex items-center text-xs font-medium">
+                            <svg class="w-3 h-3 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
+                                      d="M13 17h8m0 0V9m0 8l-8-8-4 4-6-6" />
+                            </svg>
+                            Above Target
+                        </span>
+                    {% endif %}
+                </div>
+            </div>
+
+            <span class="text-xs text-gray-500 pb-1">Weeks</span>
+        </div>
+    </div>
+
+    <!-- Card 4: 18‑Week Status Summary with alert styling -->
+    <div class="bg-gray-800 p-6 rounded-xl border-l-4 border-red-500 shadow-sm">
+        <div class="flex items-center justify-between">
+
+            <div>
+                <p class="text-sm font-medium text-gray-400 uppercase tracking-wider">
+                    18-Week Status
+                </p>
+
+                <h3 class="text-3xl font-bold text-white mt-1">
+                    {{ breach_count }}
+                </h3>
+            </div>
+
+            <!-- Alert icon container -->
+            <div class="p-3 bg-red-500/10 rounded-lg">
+                <svg class="w-6 h-6 text-red-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
+                          d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+                </svg>
+            </div>
+        </div>
+
+        <p class="text-sm text-gray-500 mt-4">
+            <span class="text-red-400 font-medium">{{ "%.1f"|format(breach_percent) }}%</span> 
+            of total waiting list
+        </p>
+    </div>
+
+</div>
