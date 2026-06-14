@@ -1,5 +1,21 @@
-<script>
-(function() {
+document.addEventListener("DOMContentLoaded", () => {
+
+    // Helper: get current theme colours from CSS variables
+    function getThemeColors() {
+        const styles = getComputedStyle(document.documentElement);
+        return {
+            text: styles.getPropertyValue('--text').trim(),
+            bg: styles.getPropertyValue('--bg').trim()
+        };
+    }
+
+    // Get theme colours
+    let { text, bg } = getThemeColors();
+
+    // Apply defaults globally
+    Chart.defaults.color = text;
+    Chart.defaults.borderColor = text;
+
     // Get the data from the backend
     const patients = {{ patients | tojson }};
     
@@ -12,25 +28,28 @@
     };
 
     patients.forEach(p => {
-        // Count Specialties
         specialtyCounts[p.specialty] = (specialtyCounts[p.specialty] || 0) + 1;
-        
-        // Count Priorities
         if (priorityCounts.hasOwnProperty(p.priority)) {
             priorityCounts[p.priority]++;
         }
     });
 
+    // -------------------------------
     // Specialty Bar Chart
-    const ctxSpecialty = document.getElementById('specialtyChart').getContext('2d');
-    new Chart(ctxSpecialty, {
+    // -------------------------------
+    const specialtyCanvas = document.getElementById('specialtyChart');
+    if (!specialtyCanvas) return; // Canvas missing → stop safely
+
+    const ctxSpecialty = specialtyCanvas.getContext('2d');
+
+    const specialtyChart = new Chart(ctxSpecialty, {
         type: 'bar',
         data: {
             labels: Object.keys(specialtyCounts),
             datasets: [{
                 label: 'Patients',
                 data: Object.values(specialtyCounts),
-                backgroundColor: '#3b82f6', // Clinical Blue
+                backgroundColor: '#3b82f6',
                 borderRadius: 6
             }]
         },
@@ -39,21 +58,34 @@
             maintainAspectRatio: false,
             plugins: { legend: { display: false } },
             scales: {
-                y: { beginAtZero: true, ticks: { color: '#9ca3af' }, grid: { color: '#374151' } },
-                x: { ticks: { color: '#9ca3af' }, grid: { display: false } }
+                y: { 
+                    beginAtZero: true,
+                    ticks: { color: text },
+                    grid: { color: text + '33' }
+                },
+                x: { 
+                    ticks: { color: text },
+                    grid: { display: false }
+                }
             }
         }
     });
 
+    // -------------------------------
     // Priority Doughnut Chart
-    const ctxPriority = document.getElementById('priorityChart').getContext('2d');
-    new Chart(ctxPriority, {
+    // -------------------------------
+    const priorityCanvas = document.getElementById('priorityChart');
+    if (!priorityCanvas) return;
+
+    const ctxPriority = priorityCanvas.getContext('2d');
+
+    const priorityChart = new Chart(ctxPriority, {
         type: 'doughnut',
         data: {
             labels: Object.keys(priorityCounts),
             datasets: [{
                 data: Object.values(priorityCounts),
-                backgroundColor: ['#f97316', '#3b82f6', '#ef4444'], // Urgent, Routine, Cancer
+                backgroundColor: ['#f97316', '#3b82f6', '#ef4444'],
                 borderWidth: 0,
                 hoverOffset: 10
             }]
@@ -65,10 +97,33 @@
             plugins: {
                 legend: {
                     position: 'right',
-                    labels: { color: '#9ca3af', padding: 20, font: { size: 12 } }
+                    labels: { color: text, padding: 20, font: { size: 12 } }
                 }
             }
         }
     });
-})();
-</script>
+
+    // -------------------------------
+    // Live theme update on toggle
+    // -------------------------------
+    const observer = new MutationObserver(() => {
+        let { text } = getThemeColors();
+
+        // Update global defaults
+        Chart.defaults.color = text;
+        Chart.defaults.borderColor = text;
+
+        // Update specialty chart
+        specialtyChart.options.scales.x.ticks.color = text;
+        specialtyChart.options.scales.y.ticks.color = text;
+        specialtyChart.options.scales.y.grid.color = text + '33';
+        specialtyChart.update();
+
+        // Update priority chart
+        priorityChart.options.plugins.legend.labels.color = text;
+        priorityChart.update();
+    });
+
+    observer.observe(document.documentElement, { attributes: true });
+
+});

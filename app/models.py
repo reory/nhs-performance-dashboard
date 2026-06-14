@@ -1,6 +1,8 @@
 from pydantic import BaseModel, validator
 from datetime import date
+from loguru import logger
 import nhs_number
+
 
 class Patient(BaseModel):
     # Patients GP practice
@@ -21,9 +23,12 @@ class Patient(BaseModel):
     wait_weeks: int
 
     # This tells Pydantic how to use the NHS library.
-    @validator('nhs_id')
+    @validator("nhs_id")
     @classmethod
     def validate_nhs_id(cls, v):
+
+        logger.debug(f"Validating nhs ID: {v}")
+
         # Normalise and remove spaces/hyphens
         clean_v = v.replace(" ", "").replace("-", "")
 

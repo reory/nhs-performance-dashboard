@@ -4,18 +4,18 @@ from app.models import Patient
 from datetime import date
 import nhs_number
 
+
 def test_valid_nhs_number():
     """Test that a mathematically valid nhs number is accepted."""
-    
+
     # Generate a valid NHS number using the library itself.
     # This is better than making up a number.
     valid_num = nhs_number.generate(quantity=1)[0]
-    
+
     # Check the library first
     assert nhs_number.is_valid(valid_num) is True
 
     # Ensure the pydantic model accepts it.
-
     patient = Patient(
         nhs_id=valid_num,
         name="John Doe",
@@ -24,10 +24,11 @@ def test_valid_nhs_number():
         specialty="Cardiology",
         priority="Routine",
         referral_date=date(2024, 1, 1),
-        wait_weeks=10
+        wait_weeks=10,
     )
 
     assert patient.nhs_id == valid_num
+
 
 def test_valid_nhs_number_fails():
     """Test that a keyboard number 1234567890 triggers a pydantic error."""
@@ -44,5 +45,5 @@ def test_valid_nhs_number_fails():
             specialty="GP",
             priority="Urgent",
             referral_date=date(2025, 1, 11),
-            wait_weeks=1
+            wait_weeks=1,
         )

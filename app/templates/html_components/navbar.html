@@ -21,7 +21,32 @@
                       px-3 py-1.5 rounded-md transition-all font-semibold">
                Raw Data Access (JSON)
             </a>
+
+            <!-- Theme toggle button -->
+            <button id="themeToggle"
+                    class="text-xs bg-black/5 hover:bg-black/10 border-black/10 text-gray-800
+							px-3 py-1.5 rounded-md transition-all font-semibold">
+                Toggle Theme
+            </button>
         </div>
 
     </div>
 </nav>
+
+<!-- JavaScript -->
+<script>
+	// Simple theme toggle: switches between dark and light
+    document.getElementById('themeToggle').addEventListener('click', () => {
+        const html = document.documentElement;
+        html.classList.toggle('dark');
+        // Optional: persist preference
+        localStorage.setItem('theme', html.classList.contains('dark') ? 'dark' : 'light');
+    });
+
+    // Restore saved theme on load
+    if (localStorage.getItem('theme') === 'light') {
+        document.documentElement.classList.remove('dark');
+    } else {
+        document.documentElement.classList.add('dark');
+    }
+</script>

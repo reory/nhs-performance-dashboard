@@ -5,14 +5,12 @@
         <!-- Card container with dark background, padding, rounded corners, and subtle border -->
 
         <h3 class="text-sm font-bold text-gray-400 uppercase mb-4">
-            <!-- Section title styling -->
             Volume by Specialty
         </h3>
 
-        <div style="position: relative; height: 300px;">
-            <!-- Fixed-height wrapper so the Chart.js canvas scales correctly -->
+        <!-- Chart container replaces the old fixed-height wrapper -->
+        <div class="chart-container" style="position: relative; height: 300px;">
             <canvas id="specialtyChart"></canvas>
-            <!-- Chart.js will target this canvas to render the Specialty chart -->
         </div>
     </div>
 
@@ -20,14 +18,13 @@
         <!-- Second card container, same styling for visual consistency -->
 
         <h3 class="text-sm font-bold text-gray-400 uppercase mb-4">
-            <!-- Section title styling -->
             Priority Distribution
         </h3>
 
-        <div style="position: relative; height: 300px;">
-            <!-- Fixed-height wrapper for the Priority chart -->
+        <!-- Chart container replaces the old fixed-height wrapper -->
+        <div class="chart-container" style="position: relative; height: 300px;">
             <canvas id="priorityChart"></canvas>
-            <!-- Chart.js will target this canvas to render the Priority chart -->
         </div>
     </div>
 </div>
+

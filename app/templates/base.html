@@ -1,27 +1,79 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="dark">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% block title %}NHS Performance Dashboard{% endblock %}</title>
+
+    <!-- Tailwind CDN with darkMode: 'class' -->
+    <script>
+        tailwind = {
+            config: {
+                darkMode: 'class'
+            }
+        }
+    </script>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <!-- Theme variables (light + dark) -->
     <style>
+        :root {
+            --bg: #ffffff;
+            --text: #1e293b;
+        }
+
+        .dark {
+            --bg: #0f172a;
+            --text: #e2e8f0;
+        }
+
+        body {
+            background-color: var(--bg);
+            color: var(--text);
+        }
+
         .bg-clinical-blue { background-color: #97d4f5; }
         .text-clinical-blue { color: #075985; }
         html { scroll-behavior: smooth; }
     </style>
+
+    <style>
+        /* Chart container fix */
+        canvas {
+            background-color: transparent !important;
+        }
+
+        .chart-container {
+            background-color: var(--bg);
+            border-radius: 0.5rem;
+            padding: 1rem;
+        }
+
+        /* Ensure charts respect theme colours */
+        .dark canvas {
+            color: var(--text);
+        }
+    </style>
+
 </head>
-<body class="bg-gray-950 font-sans text-gray-200"> {% include "html_components/navbar.html" %}
+
+<body class="font-sans">
+
+    {% include "html_components/navbar.html" %}
 
     <main class="container mx-auto py-8 px-4">
         {% block content %}
         {% endblock %}
     </main>
 
-    <footer class="border-t border-gray-800 mt-12 py-6 text-center text-gray-500 text-sm">
+    <footer class="border-t border-gray-300 dark:border-gray-800 mt-12 py-6 text-center text-gray-600 dark:text-gray-400 text-sm">
         &copy; 2026 Python Developer Data Systems Pilot — Internal Use Only
     </footer>
+
+    {% block scripts %}
+        {% include "js_components/js_scripts.html" %}
+    {% endblock %}
 
 </body>
 </html>

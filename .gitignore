@@ -1,6 +1,13 @@
 venv/
+.venv/
+.env/
+env/
 .pytest_cache/
+.hypothesis_cache/
 __pycache__/
 *.db
 .env
 .vscode
+*.coverage
+*pytest.ini
+*.log

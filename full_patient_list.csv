@@ -1,0 +1,1001 @@
+gp_practice,nhs_id,name,dob,specialty,priority,referral_date,wait_weeks
+Leeds Medical Practice,7466983464,Angelika Czosnyka,2018-08-13,Haematology,Two Week Wait (Cancer),2025-11-12,16
+St. Armley's Medical Group,7440078519,Güneri Borataş Durmuş,2020-12-13,Oncology,Two Week Wait (Cancer),2026-01-10,7
+St. Armley's Medical Group,7462758008,George Diaconu,1932-01-02,Pulmonolgy,Routine,2025-11-09,16
+Health Centre Beeston,4148461720,Mikołaj Chlebda,2002-01-17,Gastroenterology,Routine,2026-01-03,8
+St. Armley's Medical Group,6276893706,Łukasz Ficner,1922-12-19,Neurology,Routine,2025-09-30,22
+Meadow View Alwoodley Surgery,4112287348,Urvashi Bhatia,2005-12-22,Infectious Diseases,Two Week Wait (Cancer),2025-11-15,15
+The Village Medical Centre,7996028028,Bay Fami Ruhsat Demirel,1981-03-28,Orthopaedic,Urgent,2026-02-15,2
+St. Armley's Medical Group,4610105616,Ricky Walker,2023-10-29,Gastroenterology,Routine,2026-01-02,8
+Bluefield Farsley Health Centre,4609913321,James Okafor,1956-05-22,Orthopaedic,Urgent,2025-12-19,10
+Bluefield Farsley Health Centre,4087724603,Robert Webb,2021-04-08,Pulmonolgy,Routine,2026-02-23,1
+Bankside GP Partners Bramley,4178154060,Anton Popa,1923-09-01,Pulmonolgy,Two Week Wait (Cancer),2026-01-08,7
+Highfield Roundhay Doctors,4396536577,Öğr. Yetişal Onat Tevetoğlu,1958-01-03,Oncology,Urgent,2026-02-23,1
+The Village Medical Centre,7148771595,Miriam de Figueiredo,1967-10-16,Rheumatology,Urgent,2025-12-12,11
+Oakwood Surgery,4701392286,Ann Perry,1931-10-22,Pulmonolgy,Urgent,2026-03-01,0
+Bluefield Farsley Health Centre,4123259685,Eric Ioniță,1923-08-12,Pediatrics,Urgent,2026-01-30,4
+Health Centre Beeston,6478656152,Veda Yadav,1953-06-29,Haematology,Two Week Wait (Cancer),2025-10-16,19
+Meadow View Alwoodley Surgery,4397853193,Antonia Albu,1972-04-18,Gastroenterology,Urgent,2026-01-15,6
+Bankside GP Partners Bramley,7064443066,Champak Palan,1991-11-03,Oncology,Two Week Wait (Cancer),2026-01-02,8
+St. Armley's Medical Group,7661007762,James Akinwale,2003-01-16,Pediatrics,Routine,2026-01-11,7
+Leeds Medical Practice,4717881575,Ishaan Wable,2000-12-24,Infectious Diseases,Two Week Wait (Cancer),2026-02-18,2
+St. Armley's Medical Group,7037083275,Arsenio Yáñez Vila,2011-05-23,Oncology,Two Week Wait (Cancer),2026-01-04,8
+Highfield Roundhay Doctors,4882489864,Cláudio Paiva,1994-10-07,Gastroenterology,Routine,2025-09-11,24
+The Village Medical Centre,4824627435,Filipe Pinto,2001-02-22,Pulmonolgy,Routine,2025-10-22,19
+Oakwood Surgery,7820967072,Tony Henderson-Stevens,2016-08-30,Gastroenterology,Urgent,2026-01-15,6
+Highfield Roundhay Doctors,4181049930,Franciszek Dub,1925-06-05,Pulmonolgy,Urgent,2026-02-26,0
+Highfield Roundhay Doctors,4560601410,Iwo Miecznik,1973-10-24,Rheumatology,Urgent,2025-12-22,10
+Health Centre Beeston,6601866660,Miss Anne Jennings,1981-04-11,Cardiology,Routine,2025-11-28,13
+Meadow View Alwoodley Surgery,7932686563,Tarancı Güçlü,2007-04-09,Cardiology,Two Week Wait (Cancer),2026-01-03,8
+Beacon Health Partnership,7650398277,Gonçalo Pinto,1987-06-16,Rheumatology,Routine,2026-01-06,8
+Oakwood Surgery,4604159785,Marion Hill,1960-10-28,Pulmonolgy,Two Week Wait (Cancer),2025-09-11,24
+Beacon Health Partnership,4143126001,Ángeles Bayo-Alcázar,1940-08-19,Oncology,Two Week Wait (Cancer),2026-01-07,8
+The Village Medical Centre,6123887009,Charity Okonkwo,1998-10-03,Infectious Diseases,Two Week Wait (Cancer),2025-12-19,10
+Beacon Health Partnership,4058010541,Conor Jones,1929-06-08,Haematology,Routine,2025-11-06,16
+Highfield Roundhay Doctors,7870691062,Shane Holland-Ward,1984-10-02,Infectious Diseases,Urgent,2025-10-31,17
+Leeds Medical Practice,6365817770,Cruz Frutos Torre,1979-09-04,Orthopaedic,Two Week Wait (Cancer),2026-02-14,2
+Beacon Health Partnership,7527792787,Yrd. Doç. Arkut Milay Aslan,1966-01-25,Pediatrics,Two Week Wait (Cancer),2025-11-08,16
+The Village Medical Centre,4188674792,Gail Sinclair,1954-06-15,Haematology,Urgent,2025-12-27,9
+Meadow View Alwoodley Surgery,4674713242,Stefan Zybura,1941-01-04,Oncology,Two Week Wait (Cancer),2025-11-01,17
+Bankside GP Partners Bramley,7423367338,pani Rozalia Tofil,1997-03-21,Pediatrics,Routine,2025-11-21,14
+Leeds Medical Practice,6033120760,Sonia Bajak,1920-06-07,Infectious Diseases,Routine,2026-01-03,8
+Leeds Medical Practice,4264210712,Patience Uche,1983-12-30,Infectious Diseases,Two Week Wait (Cancer),2026-01-29,4
+Bankside GP Partners Bramley,4771198330,Simber Nurey Ertaş,1962-07-27,Gastroenterology,Urgent,2025-10-15,20
+Bluefield Farsley Health Centre,4466589143,Ann Barber,2017-07-24,Neurology,Two Week Wait (Cancer),2025-10-22,19
+Meadow View Alwoodley Surgery,7057966830,Vera Ramos-Mota,1961-10-16,Cardiology,Two Week Wait (Cancer),2026-01-29,4
+The Village Medical Centre,7356104717,Daniel Torres,1989-08-04,Oncology,Urgent,2025-11-22,14
+Bluefield Farsley Health Centre,6605013263,Stephen Ojo,2012-09-11,Pulmonolgy,Routine,2025-10-28,18
+Bankside GP Partners Bramley,4711304215,Avşin Şafak,1983-03-29,Pulmonolgy,Urgent,2025-12-28,9
+Oakwood Surgery,4762528900,Vahittin Kısakürek,2005-03-19,Rheumatology,Routine,2025-10-19,19
+Highfield Roundhay Doctors,7699870867,Marianna Fołta,2013-06-18,Haematology,Routine,2025-11-09,16
+Bankside GP Partners Bramley,4404199961,pani Karina Dułak,1964-08-07,Rheumatology,Routine,2026-01-03,8
+Highfield Roundhay Doctors,7717961016,Benjamim Pacheco,1966-10-06,Pulmonolgy,Urgent,2025-11-16,15
+Highfield Roundhay Doctors,6183878618,Günebakan Aksu Duran,1977-04-08,Infectious Diseases,Two Week Wait (Cancer),2025-10-14,20
+Meadow View Alwoodley Surgery,4763962469,Laura Macedo,1960-11-27,Cardiology,Urgent,2026-02-23,1
+Bluefield Farsley Health Centre,4800649439,Emmanuel Okafor,1928-10-24,Oncology,Routine,2025-09-15,24
+Beacon Health Partnership,7430848931,Dr Sally Miah,1936-01-30,Gastroenterology,Two Week Wait (Cancer),2025-12-17,11
+St. Armley's Medical Group,4202977629,Adriana Machado,1954-09-23,Oncology,Two Week Wait (Cancer),2025-12-09,12
+Oakwood Surgery,4269826207,Lorelei Stan,2010-07-02,Rheumatology,Routine,2025-11-10,16
+Health Centre Beeston,4308316189,Victoria Olawale,1947-10-13,Rheumatology,Two Week Wait (Cancer),2025-11-01,17
+St. Armley's Medical Group,4693773077,Hope Akinwale,2006-06-24,Cardiology,Two Week Wait (Cancer),2025-10-03,21
+Leeds Medical Practice,7170907275,Arş. Gör. Karaer Şensoy,1982-08-15,Orthopaedic,Routine,2025-10-24,18
+Health Centre Beeston,4770026919,Dida Dochioiu,1930-04-26,Haematology,Routine,2025-10-02,21
+Bankside GP Partners Bramley,6166544006,Stephanie Bird,1954-04-10,Haematology,Two Week Wait (Cancer),2025-11-18,15
+Highfield Roundhay Doctors,7350533810,Melania Ariño Guijarro,2014-02-18,Gastroenterology,Routine,2025-12-25,9
+Bankside GP Partners Bramley,7369828255,Sebastião Tavares,1962-11-21,Gastroenterology,Urgent,2025-12-20,10
+Leeds Medical Practice,4111052142,Tunahan Binışık Yıldırım,2017-03-18,Cardiology,Urgent,2026-02-28,0
+Oakwood Surgery,4926017105,Faith Okonkwo,2004-07-05,Rheumatology,Routine,2025-11-22,14
+Bluefield Farsley Health Centre,7456993971,Charlene Robinson,1992-05-25,Neurology,Two Week Wait (Cancer),2026-01-09,7
+The Village Medical Centre,4054028330,pani Monika Ellwart,1926-11-25,Gastroenterology,Urgent,2025-12-23,10
+Health Centre Beeston,6625079413,Anna Maria Budzich,2000-12-19,Rheumatology,Two Week Wait (Cancer),2025-11-02,17
+Highfield Roundhay Doctors,7963451983,Ariana Loureiro,1959-02-10,Rheumatology,Routine,2025-09-18,23
+Beacon Health Partnership,7630635222,Abigail Walsh,2007-12-06,Pulmonolgy,Routine,2025-12-18,10
+The Village Medical Centre,6282108616,Constança Carvalho,1953-12-22,Pediatrics,Routine,2025-09-15,24
+Bankside GP Partners Bramley,4939117316,Rohat Şafak,1949-11-07,Pediatrics,Routine,2026-03-03,0
+St. Armley's Medical Group,6233044359,Yrd. Doç. Erkılıç Bünyamün Yüksel,1993-11-05,Haematology,Urgent,2026-01-22,5
+Bluefield Farsley Health Centre,4005026222,Ridhi Lanka,1923-07-03,Gastroenterology,Urgent,2025-10-29,18
+Health Centre Beeston,7633427337,Sandro Sá,1954-04-18,Infectious Diseases,Two Week Wait (Cancer),2025-11-23,14
+St. Armley's Medical Group,4287254090,Daniel Ibrahim,1978-06-20,Gastroenterology,Routine,2025-11-10,16
+Beacon Health Partnership,4478545545,Juliana-Alice Alves,1998-06-20,Infectious Diseases,Urgent,2026-02-21,1
+Leeds Medical Practice,6124834073,Mr Ashley Anderson,1980-01-14,Rheumatology,Routine,2025-11-02,17
+Meadow View Alwoodley Surgery,6845046115,Henrique Lopes,1938-03-24,Rheumatology,Routine,2025-10-18,19
+Leeds Medical Practice,6587672116,Peace Abiola,1978-08-28,Oncology,Routine,2025-11-01,17
+Beacon Health Partnership,7593984176,Aadhya Chhabra,1948-05-28,Orthopaedic,Routine,2026-02-20,1
+Bluefield Farsley Health Centre,4270415126,Miłosz Fogiel,1956-08-31,Haematology,Routine,2026-02-06,3
+St. Armley's Medical Group,6119367462,Michael Uche,1945-01-07,Pulmonolgy,Routine,2026-02-19,1
+Leeds Medical Practice,6629970276,Şeref Beray Manço Çetin,1973-01-13,Oncology,Two Week Wait (Cancer),2025-12-11,11
+Beacon Health Partnership,7732814851,Sidar Mujde Yüksel,1940-10-11,Gastroenterology,Routine,2025-10-08,21
+Beacon Health Partnership,4810901238,Stephen Uche,1978-12-02,Gastroenterology,Urgent,2025-10-22,19
+Meadow View Alwoodley Surgery,4447195267,Jordi Boada Sans,1937-01-15,Pediatrics,Two Week Wait (Cancer),2025-09-22,23
+Oakwood Surgery,4681496731,Doç. Eba Gencaslan Soylu,1980-04-29,Haematology,Two Week Wait (Cancer),2025-11-10,16
+Bankside GP Partners Bramley,4231200017,Viviana Preda,1926-12-13,Orthopaedic,Routine,2026-01-07,8
+St. Armley's Medical Group,6356112514,Joshua Obi,2015-09-24,Neurology,Routine,2025-10-06,21
+Bluefield Farsley Health Centre,7781853709,Margaret Harrison,2015-10-20,Pediatrics,Two Week Wait (Cancer),2025-10-28,18
+Highfield Roundhay Doctors,7645757892,Patience Obi,1951-12-17,Oncology,Urgent,2025-12-04,12
+The Village Medical Centre,4641811393,Octavia Stan,1989-01-22,Pulmonolgy,Urgent,2025-11-10,16
+Highfield Roundhay Doctors,7395181352,Bernard Price-Hughes,1954-01-06,Infectious Diseases,Routine,2025-12-09,12
+Leeds Medical Practice,4087331717,pan Dariusz Pietraszkiewicz,1999-12-31,Rheumatology,Routine,2025-12-15,11
+Highfield Roundhay Doctors,4179470683,Hatin Yaman,2001-12-01,Oncology,Urgent,2026-01-04,8
+Meadow View Alwoodley Surgery,6879213235,Fiona Marshall,1981-05-18,Pediatrics,Two Week Wait (Cancer),2025-11-05,17
+Bankside GP Partners Bramley,4131785250,Daniela Tudor,2005-07-13,Neurology,Urgent,2025-10-29,18
+The Village Medical Centre,4799675680,Victoria Ojo,1998-07-31,Infectious Diseases,Routine,2026-02-13,2
+Beacon Health Partnership,6975020280,Mariana de Gaspar,1939-04-15,Pediatrics,Urgent,2026-01-07,8
+Oakwood Surgery,7228967232,Ekaraj Kota,1946-07-22,Gastroenterology,Two Week Wait (Cancer),2026-02-20,1
+Highfield Roundhay Doctors,4716066010,Charity Oshodi,2017-05-06,Haematology,Routine,2025-11-11,16
+Leeds Medical Practice,4967098975,pan Robert Garbaciak,1990-08-02,Infectious Diseases,Routine,2026-02-19,1
+Oakwood Surgery,6085897782,Nayara Falcón Salvà,1939-04-18,Orthopaedic,Two Week Wait (Cancer),2025-10-31,17
+Highfield Roundhay Doctors,4903939960,Ema Coelho,1977-08-24,Haematology,Two Week Wait (Cancer),2025-11-01,17
+Health Centre Beeston,7925757892,Comfort Balogun,1985-06-20,Pediatrics,Two Week Wait (Cancer),2025-09-20,23
+The Village Medical Centre,4808495244,Nicușor Toma,1957-05-09,Cardiology,Two Week Wait (Cancer),2025-12-05,12
+Highfield Roundhay Doctors,4688134940,Pamela Cristea,1942-08-30,Oncology,Two Week Wait (Cancer),2025-11-12,16
+Highfield Roundhay Doctors,4752673460,Laze Duran,1987-05-11,Neurology,Routine,2026-01-11,7
+St. Armley's Medical Group,7022659168,Marcelina Woszczak,1971-04-26,Cardiology,Urgent,2026-02-01,4
+Oakwood Surgery,7685284480,Victória de Ferreira,2007-04-23,Infectious Diseases,Routine,2025-10-15,20
+The Village Medical Centre,6464705806,Georgia Young,1996-12-09,Gastroenterology,Two Week Wait (Cancer),2025-12-08,12
+Bankside GP Partners Bramley,4329732254,Tudora Gheorghiu,1949-11-05,Neurology,Routine,2025-12-09,12
+St. Armley's Medical Group,4130720163,Fito Armas Tomás,1921-11-23,Rheumatology,Routine,2026-01-08,7
+Beacon Health Partnership,4843050474,Paul Stoica,1922-07-19,Cardiology,Routine,2026-02-18,2
+Leeds Medical Practice,4591162443,Sonad Gençay Aslan,1995-02-01,Cardiology,Urgent,2025-12-29,9
+Oakwood Surgery,4543717058,Cláudio Rodrigues,2024-05-06,Infectious Diseases,Two Week Wait (Cancer),2026-01-29,4
+Leeds Medical Practice,4121996976,Michał Zegadło,1993-09-17,Neurology,Two Week Wait (Cancer),2025-12-27,9
+Oakwood Surgery,6954449717,Joseph Ogunleye,1951-06-17,Cardiology,Urgent,2026-02-22,1
+The Village Medical Centre,6686136611,Silvian Popescu,1950-08-20,Haematology,Urgent,2025-11-05,17
+Highfield Roundhay Doctors,4282239441,Diego Leite,2012-12-10,Rheumatology,Routine,2026-01-28,5
+Oakwood Surgery,4501643099,Zacarías Villena Nuñez,1970-02-08,Gastroenterology,Urgent,2025-12-25,9
+Leeds Medical Practice,7441952816,Lorena Cardoso,1959-10-12,Orthopaedic,Two Week Wait (Cancer),2025-11-09,16
+Beacon Health Partnership,4907673213,Joana Ferreira,1951-07-09,Haematology,Two Week Wait (Cancer),2025-12-24,10
+Meadow View Alwoodley Surgery,7053724573,Crin Albu,2019-07-26,Rheumatology,Urgent,2025-09-21,23
+Oakwood Surgery,6049563365,Sharon O'Connor,2003-05-07,Pulmonolgy,Two Week Wait (Cancer),2026-03-02,0
+St. Armley's Medical Group,4413683420,pan Tomasz Tyniec,1972-04-24,Haematology,Two Week Wait (Cancer),2026-02-25,1
+Highfield Roundhay Doctors,4555409205,Vilma Ríos Viñas,1955-02-12,Pulmonolgy,Two Week Wait (Cancer),2025-10-18,19
+Bankside GP Partners Bramley,7304836067,Haydée Ortuño Navas,1948-04-13,Pulmonolgy,Routine,2025-12-10,12
+Bankside GP Partners Bramley,4974990713,Hubert Oczko,1977-06-05,Rheumatology,Two Week Wait (Cancer),2026-02-19,1
+St. Armley's Medical Group,6849335987,Miss Sophie Winter,1958-06-13,Neurology,Two Week Wait (Cancer),2025-10-30,17
+Bankside GP Partners Bramley,6658869723,Odalys Tomé Fuster,1929-07-30,Oncology,Urgent,2025-09-11,24
+Beacon Health Partnership,7830819548,Nicolás Falcón Lago,1952-08-14,Pediatrics,Two Week Wait (Cancer),2026-01-08,7
+Bluefield Farsley Health Centre,7984253668,Leandro Branco,1999-06-10,Oncology,Routine,2025-09-14,24
+Health Centre Beeston,4353126431,Doğanşah Fırat,1978-05-01,Pediatrics,Urgent,2025-12-16,11
+Beacon Health Partnership,6052609354,Çev. Sejda İsra Sezer Gülen,1977-07-17,Gastroenterology,Two Week Wait (Cancer),2025-12-15,11
+Meadow View Alwoodley Surgery,4178222821,Aurică Toma,2009-04-28,Gastroenterology,Urgent,2025-10-26,18
+Meadow View Alwoodley Surgery,4178346849,Florin Nistor,1970-07-27,Pulmonolgy,Routine,2025-12-19,10
+Meadow View Alwoodley Surgery,4032087490,Ion Dochioiu,1969-12-09,Infectious Diseases,Two Week Wait (Cancer),2025-10-25,18
+Meadow View Alwoodley Surgery,4203296544,Emanuela Toma,1990-09-13,Oncology,Routine,2025-10-03,21
+Meadow View Alwoodley Surgery,4080967179,Judith Smith,2013-02-20,Haematology,Routine,2025-12-29,9
+Leeds Medical Practice,7140036497,Gökay Dumanlı,1939-08-27,Infectious Diseases,Routine,2025-10-17,19
+The Village Medical Centre,4857537958,Isabel del Cuesta,2000-10-30,Gastroenterology,Routine,2025-12-29,9
+Bluefield Farsley Health Centre,4884768760,Timothy Taylor,1992-12-24,Cardiology,Urgent,2025-12-06,12
+Highfield Roundhay Doctors,4764336642,Umman Kasim Şensoy,1974-01-27,Gastroenterology,Two Week Wait (Cancer),2025-12-25,9
+Oakwood Surgery,6876905209,Charvi Zachariah,2001-11-04,Gastroenterology,Urgent,2025-10-19,19
+Beacon Health Partnership,4057641149,Nuno Costa,1997-11-22,Pulmonolgy,Routine,2026-01-24,5
+The Village Medical Centre,4516393573,Semat Eraslan,1926-03-16,Haematology,Two Week Wait (Cancer),2025-11-24,14
+Meadow View Alwoodley Surgery,4114587195,Paweł Cyrulik,1967-12-28,Cardiology,Two Week Wait (Cancer),2025-12-25,9
+Bluefield Farsley Health Centre,4733307292,Timothy Hill,1954-11-04,Oncology,Urgent,2026-01-01,8
+Meadow View Alwoodley Surgery,4126131418,Adora Reina Borrell Corbacho,1939-11-13,Cardiology,Urgent,2025-11-10,16
+Beacon Health Partnership,4302911662,Gülçe Zorlu Zengin,1977-05-10,Gastroenterology,Two Week Wait (Cancer),2025-12-14,11
+Meadow View Alwoodley Surgery,4565283956,Alice Webster,1994-10-16,Rheumatology,Routine,2025-11-09,16
+St. Armley's Medical Group,7519825892,Gloria Obi,1992-10-19,Cardiology,Urgent,2026-02-25,1
+The Village Medical Centre,7469983465,Petronela Dumitrescu,1934-02-19,Haematology,Urgent,2025-10-24,18
+St. Armley's Medical Group,4414793505,Gloria Ogunleye,1945-10-26,Cardiology,Two Week Wait (Cancer),2025-09-18,23
+St. Armley's Medical Group,7798696091,Declan Murphy,1950-07-01,Cardiology,Urgent,2025-09-28,22
+St. Armley's Medical Group,4173962002,Felix Dochioiu,2004-07-28,Gastroenterology,Routine,2025-12-07,12
+The Village Medical Centre,4815009171,Marek Klama,1976-08-22,Pulmonolgy,Routine,2025-10-10,20
+Meadow View Alwoodley Surgery,7793939409,Lydia Gibson,2003-01-26,Pediatrics,Urgent,2025-12-14,11
+Beacon Health Partnership,4135734898,Paz Parejo-Sales,2021-09-21,Gastroenterology,Two Week Wait (Cancer),2026-01-31,4
+Beacon Health Partnership,7137814999,Vera Ramos Navas,2008-03-24,Gastroenterology,Two Week Wait (Cancer),2025-11-03,17
+Highfield Roundhay Doctors,7468511217,Petrona Benitez,1936-04-17,Pulmonolgy,Urgent,2025-11-18,15
+Beacon Health Partnership,6768144855,Ikbal Krishnan,2024-12-14,Pediatrics,Urgent,2025-09-28,22
+Health Centre Beeston,7451900746,Nichifor Mazilescu,1992-01-06,Haematology,Urgent,2026-02-23,1
+Highfield Roundhay Doctors,4357168236,Dariana Albu,1996-04-12,Haematology,Routine,2026-02-23,1
+Beacon Health Partnership,4489142927,Hubert Makulec,1956-03-30,Gastroenterology,Urgent,2025-11-28,13
+Highfield Roundhay Doctors,6453738694,Urvashi Palan,1947-12-15,Neurology,Routine,2025-10-22,19
+Bankside GP Partners Bramley,7397570496,Yug Samra,1979-11-21,Oncology,Two Week Wait (Cancer),2025-09-06,25
+The Village Medical Centre,7649596133,Martim Cunha-Jesus,1984-05-28,Haematology,Routine,2026-01-04,8
+Health Centre Beeston,6677105008,Natan Patalas,2013-10-05,Pulmonolgy,Two Week Wait (Cancer),2025-09-20,23
+Bluefield Farsley Health Centre,4094715495,Marian Popescu,1931-08-30,Orthopaedic,Routine,2025-12-22,10
+Highfield Roundhay Doctors,4298869822,Inaya Gara,1986-01-03,Oncology,Urgent,2026-02-08,3
+Bankside GP Partners Bramley,4286492443,Manolo Mendizábal,2011-12-06,Gastroenterology,Two Week Wait (Cancer),2025-11-25,14
+Oakwood Surgery,6901896379,Dylan Hunt,1985-05-15,Pulmonolgy,Urgent,2025-12-26,9
+Highfield Roundhay Doctors,6859173270,pan Aleks Penkala,1947-11-01,Gastroenterology,Routine,2026-01-30,4
+Oakwood Surgery,4679735996,Lorin Nistor,1965-01-23,Haematology,Urgent,2025-12-05,12
+St. Armley's Medical Group,4425069471,Yrd. Doç. Canur Efil Hançer Kısakürek,1926-08-23,Pulmonolgy,Routine,2025-09-11,24
+Meadow View Alwoodley Surgery,4015744845,Mary Nnamani,1939-03-21,Pulmonolgy,Two Week Wait (Cancer),2025-11-22,14
+Oakwood Surgery,4593662249,Aida Ababei,1967-11-03,Oncology,Two Week Wait (Cancer),2026-02-07,3
+Highfield Roundhay Doctors,4321611253,Avram Stan,1947-02-10,Infectious Diseases,Routine,2026-02-13,2
+Meadow View Alwoodley Surgery,4731057825,Stephen Nnamani,1957-11-16,Oncology,Urgent,2025-10-17,19
+Oakwood Surgery,6996328497,Dr Jodie Ward,1940-07-22,Infectious Diseases,Routine,2025-12-04,12
+Beacon Health Partnership,4086991713,Vicente de Cruz,1940-08-10,Infectious Diseases,Urgent,2025-12-30,9
+Highfield Roundhay Doctors,6798669050,Quirino Palma,2004-09-13,Cardiology,Urgent,2025-12-31,9
+The Village Medical Centre,4197172737,Dominic Jain,1943-12-03,Pediatrics,Two Week Wait (Cancer),2025-11-06,16
+Leeds Medical Practice,7814593646,Ilinca Diaconescu,2017-04-14,Neurology,Two Week Wait (Cancer),2026-02-25,1
+Bankside GP Partners Bramley,4378020343,Clara do Baptista,1997-03-01,Pulmonolgy,Routine,2026-01-28,5
+The Village Medical Centre,6555316683,Valerie Singh,1962-02-04,Pulmonolgy,Routine,2025-10-23,18
+Highfield Roundhay Doctors,6733710242,Juana Sanz Mascaró,1996-06-19,Orthopaedic,Routine,2025-10-16,19
+Oakwood Surgery,4348146896,Mugur Eftimie,2023-12-05,Pediatrics,Two Week Wait (Cancer),2025-09-05,25
+St. Armley's Medical Group,6983653939,Stephen Balogun,1947-06-13,Neurology,Routine,2025-10-29,18
+Health Centre Beeston,4995621512,Melania Tabacu,1977-11-09,Neurology,Two Week Wait (Cancer),2025-11-06,16
+St. Armley's Medical Group,4176786507,Peace Olawale,2020-01-31,Infectious Diseases,Two Week Wait (Cancer),2025-10-18,19
+The Village Medical Centre,6177952453,Rosie Riley,2018-10-07,Orthopaedic,Two Week Wait (Cancer),2026-03-01,0
+Oakwood Surgery,7217176468,Leonard Kurp,2012-11-09,Infectious Diseases,Urgent,2026-01-07,8
+St. Armley's Medical Group,4447860651,Judith Williams,1985-02-27,Pediatrics,Two Week Wait (Cancer),2025-09-10,25
+Beacon Health Partnership,4152940565,Joy Balogun,1988-10-11,Rheumatology,Urgent,2025-12-09,12
+Bankside GP Partners Bramley,4948378305,Edmond Popescu,1925-02-25,Oncology,Urgent,2025-09-12,24
+Highfield Roundhay Doctors,7765438638,Juliet Oyekan,2006-02-14,Pediatrics,Routine,2025-10-26,18
+Highfield Roundhay Doctors,4734747970,Flor Huertas Galan,1955-05-19,Infectious Diseases,Urgent,2025-10-28,18
+Meadow View Alwoodley Surgery,4340314692,Profira Dumitrescu,1971-10-26,Cardiology,Routine,2025-12-22,10
+St. Armley's Medical Group,4506821386,Matei Dochioiu,1966-06-17,Gastroenterology,Routine,2025-09-13,24
+St. Armley's Medical Group,4145507738,Avni Wagle,1949-02-11,Cardiology,Routine,2025-10-14,20
+Leeds Medical Practice,7112492092,Julia Walters-Davies,1942-06-02,Pulmonolgy,Routine,2026-01-16,6
+The Village Medical Centre,6244984110,pani Roksana Koniec,1933-05-10,Rheumatology,Two Week Wait (Cancer),2026-02-21,1
+Oakwood Surgery,4779972647,Zaitra Gaba,1945-03-23,Pediatrics,Routine,2025-09-14,24
+Health Centre Beeston,6437017236,Kayleigh Grant,2013-07-05,Pediatrics,Two Week Wait (Cancer),2025-10-18,19
+Beacon Health Partnership,4932360975,pani Sara Przeklasa,1934-06-02,Rheumatology,Routine,2025-12-12,11
+Beacon Health Partnership,7898406117,Leon Hughes-Bradshaw,1999-04-26,Gastroenterology,Urgent,2025-11-04,17
+Beacon Health Partnership,4377911988,Matthew Clarke,1965-06-01,Cardiology,Urgent,2025-09-26,22
+Health Centre Beeston,4580862333,Pranav Doshi,1977-06-25,Orthopaedic,Urgent,2026-01-30,4
+The Village Medical Centre,4352815144,Anamika Natt,1939-09-11,Rheumatology,Routine,2025-10-27,18
+Highfield Roundhay Doctors,4853143661,Aşir Selatin İnönü Çorlu,1982-05-17,Rheumatology,Routine,2025-11-14,15
+St. Armley's Medical Group,4284302787,Mark Ibrahim,1953-01-20,Pediatrics,Two Week Wait (Cancer),2025-09-18,23
+The Village Medical Centre,6264019593,Aurelio Viana Cuesta,1979-05-08,Gastroenterology,Routine,2025-11-19,15
+St. Armley's Medical Group,6412531521,Fayize Özgün Durmuş Akdeniz,1971-03-26,Infectious Diseases,Routine,2026-01-30,4
+The Village Medical Centre,7887351855,Bayman Melihcan Akça İnönü,2010-03-03,Cardiology,Two Week Wait (Cancer),2026-01-15,6
+Leeds Medical Practice,7667848823,Xiti Pradhan,2023-10-12,Gastroenterology,Two Week Wait (Cancer),2025-12-27,9
+Bankside GP Partners Bramley,7584173802,Alistar Stănescu,1925-07-04,Cardiology,Two Week Wait (Cancer),2025-11-10,16
+Meadow View Alwoodley Surgery,4776200848,Blessing Adetokunbo,1994-09-19,Pulmonolgy,Two Week Wait (Cancer),2025-09-07,25
+Highfield Roundhay Doctors,4467322353,Monalisa Dinu,1960-02-02,Cardiology,Two Week Wait (Cancer),2026-02-07,3
+Bankside GP Partners Bramley,4997800791,Cornelius Akinwale,1971-04-12,Pulmonolgy,Two Week Wait (Cancer),2026-01-22,5
+Leeds Medical Practice,6790937544,Enrique José Zaragoza Franch,1923-04-30,Pulmonolgy,Urgent,2025-10-03,21
+Meadow View Alwoodley Surgery,4276873681,Érica Vaz,2005-10-12,Rheumatology,Urgent,2025-11-24,14
+Beacon Health Partnership,6786070345,Gabel Kezban Tarhan Dumanlı,1961-05-26,Infectious Diseases,Routine,2025-10-25,18
+The Village Medical Centre,7177060383,Yrd. Doç. Beyhatun Akgündüz Erdoğan,1954-02-26,Pediatrics,Routine,2025-10-31,17
+Leeds Medical Practice,7582388445,Alícia Tavares-Gonçalves,2002-11-23,Rheumatology,Urgent,2026-02-03,4
+Leeds Medical Practice,4040462777,Sejda Bilge,1923-03-12,Pediatrics,Urgent,2026-01-23,5
+Bluefield Farsley Health Centre,7694505206,Grace Adetokunbo,1984-01-15,Infectious Diseases,Routine,2025-10-10,20
+Health Centre Beeston,4693473979,Sebastián Cerezo Seco,1940-02-10,Infectious Diseases,Routine,2025-10-02,21
+Beacon Health Partnership,4638814298,Aybora Erdursun Mansız,1947-11-14,Cardiology,Two Week Wait (Cancer),2026-02-15,2
+Health Centre Beeston,6121084650,pan Kajetan Polewka,1962-11-03,Infectious Diseases,Urgent,2026-02-22,1
+Health Centre Beeston,6190394191,Mark Eze,2005-12-15,Pulmonolgy,Urgent,2025-09-09,25
+Health Centre Beeston,4176284048,pan Olgierd Czubaj,1955-12-14,Rheumatology,Two Week Wait (Cancer),2025-12-03,13
+Highfield Roundhay Doctors,4787500007,Samar Chacko,1967-10-18,Neurology,Routine,2025-10-05,21
+Bankside GP Partners Bramley,4244057870,Reyes Pinedo Ibarra,1995-11-15,Cardiology,Urgent,2025-12-29,9
+The Village Medical Centre,4606800348,Sam Walker,1976-07-16,Rheumatology,Two Week Wait (Cancer),2026-01-24,5
+Highfield Roundhay Doctors,7178116145,Öğr. Müferrih Kutgün Tarhan,1965-09-28,Pediatrics,Urgent,2025-09-22,23
+Beacon Health Partnership,4916974670,Hollie O'Sullivan,1968-01-20,Haematology,Urgent,2026-02-25,1
+St. Armley's Medical Group,6767461733,Mihai Voinea,1986-12-18,Infectious Diseases,Routine,2026-02-24,1
+Beacon Health Partnership,4880615722,Íris Assunção-Brito,2017-11-19,Pediatrics,Two Week Wait (Cancer),2025-09-16,24
+Bluefield Farsley Health Centre,7023479414,Vincent Hunter-Brown,2002-06-16,Haematology,Routine,2025-11-10,16
+Bankside GP Partners Bramley,4099292940,Uz. Nades Mahigül Şafak Tarhan,1958-08-18,Pediatrics,Two Week Wait (Cancer),2025-11-26,14
+Bankside GP Partners Bramley,6709753484,Paul Eze,1936-02-10,Neurology,Routine,2026-01-23,5
+Meadow View Alwoodley Surgery,7682050985,Sian Ingram-Ingram,1964-09-04,Neurology,Urgent,2025-11-16,15
+Beacon Health Partnership,4631487038,Bernardo Borges,1991-07-06,Pediatrics,Urgent,2025-10-12,20
+Health Centre Beeston,7696032526,Madalena Nogueira,2003-05-16,Gastroenterology,Two Week Wait (Cancer),2025-09-16,24
+Highfield Roundhay Doctors,4496836300,George Ball,1996-02-28,Cardiology,Two Week Wait (Cancer),2025-09-19,23
+The Village Medical Centre,4236739623,Juan Francisco de Ros,2014-11-28,Orthopaedic,Urgent,2025-12-13,11
+The Village Medical Centre,6560404188,pan Marcel Szczap,1961-01-02,Pulmonolgy,Urgent,2026-02-09,3
+Highfield Roundhay Doctors,4697441923,Rafał Rubaj,1962-10-17,Pulmonolgy,Urgent,2025-10-04,21
+Bankside GP Partners Bramley,4650515149,Harish Dara,1998-06-06,Cardiology,Two Week Wait (Cancer),2025-10-03,21
+The Village Medical Centre,7656340270,Alexandra Gomes,1936-06-30,Neurology,Two Week Wait (Cancer),2026-02-21,1
+Bankside GP Partners Bramley,7157398192,Wyatt Choudhury,1960-08-26,Pediatrics,Two Week Wait (Cancer),2025-10-02,21
+Health Centre Beeston,4922635130,Dr. Ferzi Ramadan Güçlü,1996-08-25,Pediatrics,Two Week Wait (Cancer),2025-10-10,20
+St. Armley's Medical Group,6375089689,Nando Gisbert,1948-02-16,Haematology,Two Week Wait (Cancer),2025-09-13,24
+The Village Medical Centre,4621754769,Kevin Araújo-Matias,1978-05-05,Pulmonolgy,Urgent,2025-11-21,14
+Health Centre Beeston,4080888953,Relu Dumitrescu,1936-08-12,Pulmonolgy,Two Week Wait (Cancer),2025-12-21,10
+Health Centre Beeston,7481318859,Martín Cornejo Parra,1964-11-16,Oncology,Routine,2026-01-28,5
+Bluefield Farsley Health Centre,4657284924,Ms Carole McKenzie,1930-12-01,Neurology,Two Week Wait (Cancer),2026-02-24,1
+Highfield Roundhay Doctors,7025796433,Julita Zaczyk,1942-12-16,Pulmonolgy,Urgent,2025-09-24,23
+Bluefield Farsley Health Centre,4103284137,Cornelius Oyekan,2023-12-16,Neurology,Urgent,2026-02-04,4
+Bankside GP Partners Bramley,4498035984,Benjamín Vallés Martín,1929-05-06,Oncology,Two Week Wait (Cancer),2026-01-21,6
+Health Centre Beeston,4216079784,Paul Obasanjo,1983-07-18,Gastroenterology,Urgent,2026-01-31,4
+Leeds Medical Practice,4371163270,Julian Małyszek,1992-11-30,Cardiology,Two Week Wait (Cancer),2025-10-31,17
+St. Armley's Medical Group,7188883440,pan Konrad Waleczek,1933-10-27,Neurology,Routine,2025-12-13,11
+Leeds Medical Practice,4049050986,Rosendo Alegre Alfonso,1977-09-17,Rheumatology,Routine,2026-03-01,0
+Beacon Health Partnership,6641375552,Leon Serwa,1963-01-14,Infectious Diseases,Routine,2026-01-17,6
+Leeds Medical Practice,6891214211,Salvador Amorim-Antunes,1931-01-07,Pulmonolgy,Urgent,2025-09-21,23
+St. Armley's Medical Group,7950256826,Leonard Kałek,1948-08-06,Orthopaedic,Urgent,2025-10-16,19
+Beacon Health Partnership,6519686247,Ignacy Czosnyka,2025-11-30,Oncology,Two Week Wait (Cancer),2025-12-07,12
+Highfield Roundhay Doctors,7604812422,pan Stanisław Neugebauer,1945-12-27,Pulmonolgy,Routine,2025-09-08,25
+Beacon Health Partnership,7941118203,Mr Hugh Gilbert,1965-10-06,Orthopaedic,Urgent,2026-01-15,6
+The Village Medical Centre,6515591756,Cabir Canal Zengin Arslan,1984-05-05,Cardiology,Two Week Wait (Cancer),2025-10-22,19
+Meadow View Alwoodley Surgery,6490846128,Dr Anna Saunders,1943-10-13,Pediatrics,Routine,2025-11-19,15
+Beacon Health Partnership,6211811748,Raymond Walker,1928-03-14,Pediatrics,Routine,2026-01-25,5
+Bankside GP Partners Bramley,4121337808,pani Inga Strzyż,1962-10-22,Orthopaedic,Urgent,2025-11-30,13
+Bankside GP Partners Bramley,7880828567,Krisha Mane,2011-06-02,Pediatrics,Two Week Wait (Cancer),2025-09-26,22
+St. Armley's Medical Group,7171637557,Akshay Barman,2015-07-09,Infectious Diseases,Urgent,2025-10-20,19
+Leeds Medical Practice,7913032685,Av. İkiz Ferzi İnönü,1974-02-08,Pulmonolgy,Two Week Wait (Cancer),2025-09-20,23
+Meadow View Alwoodley Surgery,6939196706,Ernest Prystupa,1931-07-08,Cardiology,Two Week Wait (Cancer),2026-02-23,1
+Bankside GP Partners Bramley,7953147491,Vera Barbosa,2015-06-06,Infectious Diseases,Routine,2026-01-08,7
+Oakwood Surgery,4388603597,Iara Amaral,1953-11-14,Oncology,Two Week Wait (Cancer),2025-12-03,13
+Bluefield Farsley Health Centre,6517020934,Triveni Kalita,1957-05-05,Infectious Diseases,Two Week Wait (Cancer),2025-12-04,12
+Health Centre Beeston,6766678682,Eryk Wożniak,1988-05-16,Oncology,Two Week Wait (Cancer),2025-10-26,18
+Highfield Roundhay Doctors,4855710989,Sarah Nnamani,1981-04-09,Pediatrics,Urgent,2025-12-26,9
+Highfield Roundhay Doctors,4459799480,Mikołaj Nikołajuk,1925-04-09,Neurology,Two Week Wait (Cancer),2025-10-07,21
+Bluefield Farsley Health Centre,4899910460,Hükümdar Tevetoğlu,1999-06-17,Haematology,Urgent,2026-02-07,3
+The Village Medical Centre,4028833434,Öğr. Hürüyet Feraye Hayrioğlu,1956-05-17,Infectious Diseases,Routine,2025-11-01,17
+Bluefield Farsley Health Centre,4686213630,Baykan Yaman,2016-03-23,Oncology,Two Week Wait (Cancer),2026-02-08,3
+Highfield Roundhay Doctors,6984518482,Ekapad Babu,1932-12-08,Pulmonolgy,Two Week Wait (Cancer),2025-12-06,12
+Leeds Medical Practice,6966512109,Gülsiye İhsanoğlu Ergül,1946-04-30,Oncology,Two Week Wait (Cancer),2025-10-10,20
+Bankside GP Partners Bramley,7847046792,Paulo Mendes-Faria,1965-06-22,Rheumatology,Routine,2025-10-26,18
+Highfield Roundhay Doctors,4757033117,Doina Ioniță,1974-01-29,Rheumatology,Urgent,2026-02-06,3
+Highfield Roundhay Doctors,7343837311,Herminio Leiva Alba,1945-12-22,Gastroenterology,Urgent,2026-02-06,3
+The Village Medical Centre,4207764380,Faith Abiola,1929-12-09,Rheumatology,Routine,2026-02-05,3
+Beacon Health Partnership,4873980798,Ojas Sodhi,1989-07-25,Haematology,Two Week Wait (Cancer),2025-09-14,24
+Oakwood Surgery,7115027579,César Fonseca,1985-09-26,Cardiology,Urgent,2025-12-11,11
+Oakwood Surgery,4288648033,Mia Amaral,2020-02-22,Pulmonolgy,Two Week Wait (Cancer),2026-02-05,3
+The Village Medical Centre,6595470594,Ivo Amorim,2023-10-25,Pulmonolgy,Urgent,2025-10-11,20
+The Village Medical Centre,6338867894,Dumitru Toma,1937-09-03,Neurology,Two Week Wait (Cancer),2026-02-11,3
+Health Centre Beeston,7941890798,Isabela Nemeș,1939-10-29,Pediatrics,Urgent,2026-02-25,1
+St. Armley's Medical Group,4101423075,Lucas Neves,1931-06-12,Neurology,Two Week Wait (Cancer),2026-02-27,0
+St. Armley's Medical Group,7558748038,Rozalia Koloch,2010-08-26,Haematology,Urgent,2026-02-15,2
+Meadow View Alwoodley Surgery,7018951992,Joy Adetokunbo,1950-03-11,Haematology,Routine,2025-12-28,9
+Bluefield Farsley Health Centre,6609715173,Iara Ferreira,1990-06-28,Pediatrics,Two Week Wait (Cancer),2026-01-21,6
+Bluefield Farsley Health Centre,4316603019,Anna Maria Słupik,1993-01-14,Pediatrics,Routine,2025-10-27,18
+The Village Medical Centre,4498934504,Maks Szałkiewicz,2005-02-15,Rheumatology,Routine,2026-02-26,0
+Beacon Health Partnership,6740928509,Paul Chukwu,1976-11-09,Oncology,Two Week Wait (Cancer),2025-11-24,14
+Leeds Medical Practice,4584400601,Libni Rege,2025-04-25,Neurology,Two Week Wait (Cancer),2025-09-16,24
+Oakwood Surgery,7285064807,Ms Vanessa McLean,2000-05-14,Orthopaedic,Two Week Wait (Cancer),2026-02-16,2
+Meadow View Alwoodley Surgery,4833643278,Peter Adeyemi,2021-09-12,Cardiology,Routine,2026-01-10,7
+Leeds Medical Practice,4598260297,pan Kazimierz Gęca,1949-02-15,Rheumatology,Urgent,2025-11-04,17
+Bankside GP Partners Bramley,4958067787,Salomé Pacheco,1972-10-16,Neurology,Urgent,2026-02-22,1
+Bankside GP Partners Bramley,6763839456,Gary Williams-Stevens,1931-09-15,Neurology,Urgent,2025-10-01,22
+Highfield Roundhay Doctors,4226075749,Nitesh Sunder,1972-06-19,Infectious Diseases,Routine,2025-12-20,10
+Oakwood Surgery,6312352897,Kopan Şama,1952-04-09,Pulmonolgy,Routine,2025-11-25,14
+Oakwood Surgery,6577252858,Jyoti Kata,1936-03-10,Rheumatology,Routine,2025-12-05,12
+Beacon Health Partnership,7333799468,Esther Obasanjo,2025-05-20,Pediatrics,Routine,2026-02-25,1
+Highfield Roundhay Doctors,7986138610,Gabriela Pușcașu,1991-03-23,Neurology,Routine,2025-11-05,17
+Beacon Health Partnership,4690525765,Anamika Nagarajan,1939-01-30,Gastroenterology,Two Week Wait (Cancer),2025-10-31,17
+Bluefield Farsley Health Centre,4084550507,Ben Moore,1959-12-11,Cardiology,Routine,2026-01-24,5
+Highfield Roundhay Doctors,4074158418,Teodor Mocanu,2011-02-06,Pulmonolgy,Urgent,2025-09-27,22
+Health Centre Beeston,4171829895,Leonor Palmira Cortés Gálvez,1995-02-16,Oncology,Routine,2025-10-01,22
+Bluefield Farsley Health Centre,4620724491,Robert Danel,1991-03-16,Infectious Diseases,Urgent,2025-11-30,13
+Oakwood Surgery,4558997655,Godofredo Victor Manuel Calvet Barrio,1935-02-17,Orthopaedic,Two Week Wait (Cancer),2025-10-23,18
+Bankside GP Partners Bramley,4730602560,Liliana Oliva Saldaña,1993-01-08,Oncology,Urgent,2026-01-24,5
+Bankside GP Partners Bramley,4098497727,Owen Mammen,2014-09-04,Oncology,Two Week Wait (Cancer),2026-02-02,4
+Beacon Health Partnership,6307164611,Mrs Joanna Hill,1944-12-29,Gastroenterology,Urgent,2025-09-26,22
+Bankside GP Partners Bramley,4778920295,Blanka Gruszczyk,1941-10-28,Infectious Diseases,Urgent,2026-01-29,4
+Bankside GP Partners Bramley,4376325988,Ruth Okafor,2001-04-22,Orthopaedic,Two Week Wait (Cancer),2025-10-01,22
+Highfield Roundhay Doctors,7758049478,Jagrati Dubey,1945-12-07,Neurology,Two Week Wait (Cancer),2026-01-17,6
+Bankside GP Partners Bramley,4571586183,Av. Fehmiye Zorlu Yıldırım,2004-08-29,Orthopaedic,Urgent,2026-02-02,4
+Health Centre Beeston,7047393226,Blanka Sztuczka,1957-05-31,Pediatrics,Two Week Wait (Cancer),2026-01-09,7
+Bankside GP Partners Bramley,6404351889,Chasmum Comar,2025-06-11,Rheumatology,Two Week Wait (Cancer),2025-10-07,21
+The Village Medical Centre,6304365578,Mihnea Ene,1954-10-09,Oncology,Routine,2025-11-04,17
+St. Armley's Medical Group,7483839627,Allan Coles,1951-04-25,Infectious Diseases,Urgent,2025-09-12,24
+Meadow View Alwoodley Surgery,4246803952,pani Marcelina Such,1981-05-25,Oncology,Urgent,2025-10-07,21
+Health Centre Beeston,4351142529,Öğr. Hami Demirel,1999-12-24,Orthopaedic,Two Week Wait (Cancer),2025-09-05,25
+Health Centre Beeston,7653372023,Mr Bryan Garner,1977-02-02,Neurology,Urgent,2026-02-01,4
+Highfield Roundhay Doctors,7323269490,Márcio de Brito,1990-09-30,Gastroenterology,Routine,2025-09-28,22
+The Village Medical Centre,6871797165,Carolina Correia,1982-05-27,Infectious Diseases,Two Week Wait (Cancer),2025-10-15,20
+Meadow View Alwoodley Surgery,4273550032,Krystyna Frukacz,1973-10-24,Neurology,Routine,2025-12-29,9
+Health Centre Beeston,6095170230,Loreto Priego Cózar,2021-04-22,Haematology,Routine,2026-02-02,4
+Highfield Roundhay Doctors,6487690384,Türkmen Tarhan,1926-03-10,Infectious Diseases,Urgent,2025-10-17,19
+Oakwood Surgery,4417791716,James Balogun,1977-03-22,Neurology,Urgent,2026-01-20,6
+St. Armley's Medical Group,6991207446,Oliwier Żybura,1994-01-12,Gastroenterology,Urgent,2026-01-23,5
+Highfield Roundhay Doctors,7002394282,Flavio Pou Noguera,1981-03-13,Cardiology,Urgent,2026-01-28,5
+Health Centre Beeston,4208144610,Joy Ekwueme,1948-07-10,Pediatrics,Urgent,2026-02-09,3
+Meadow View Alwoodley Surgery,4919867867,Borys Marosz,1928-02-25,Rheumatology,Two Week Wait (Cancer),2026-01-24,5
+Health Centre Beeston,7446376805,Laura Manole,2016-07-01,Rheumatology,Routine,2026-02-11,3
+Leeds Medical Practice,4090938910,Iara Alves,1958-06-05,Pulmonolgy,Two Week Wait (Cancer),2025-12-06,12
+Leeds Medical Practice,7000681004,Miray Erdoğan,1959-07-08,Rheumatology,Urgent,2026-01-18,6
+St. Armley's Medical Group,6905393975,Jędrzej Grosz,1938-04-27,Pediatrics,Two Week Wait (Cancer),2025-09-26,22
+Bluefield Farsley Health Centre,7597631316,Albert Igras,1949-02-17,Haematology,Routine,2025-10-25,18
+Bankside GP Partners Bramley,4777912949,Aurica Tomescu,1933-07-09,Orthopaedic,Two Week Wait (Cancer),2025-10-09,20
+Bluefield Farsley Health Centre,6261560129,Ruth Peiró Palau,1967-03-13,Pulmonolgy,Two Week Wait (Cancer),2025-11-15,15
+Meadow View Alwoodley Surgery,4429469776,Bay Aydinç Erşat Sakarya,1999-07-09,Cardiology,Two Week Wait (Cancer),2025-11-26,14
+Leeds Medical Practice,4423373351,Clare Ellis-Cunningham,1982-10-21,Oncology,Routine,2025-12-08,12
+The Village Medical Centre,4706294983,Ekavir Kumer,1955-02-06,Cardiology,Two Week Wait (Cancer),2025-09-29,22
+Meadow View Alwoodley Surgery,4208749121,Philip Cooper,1973-12-01,Haematology,Two Week Wait (Cancer),2025-10-19,19
+Leeds Medical Practice,4224230798,Filofteia Barbu,2025-05-12,Pediatrics,Routine,2025-12-02,13
+Oakwood Surgery,7456015171,Yatin Mohan,1942-11-13,Rheumatology,Two Week Wait (Cancer),2025-09-17,24
+The Village Medical Centre,6832644396,pani Blanka Mitera,2025-05-05,Gastroenterology,Urgent,2025-12-28,9
+Highfield Roundhay Doctors,6900682057,Juliusz Majorek,1937-08-08,Pediatrics,Urgent,2025-11-02,17
+Meadow View Alwoodley Surgery,7181012061,Ariadna Tabacu,1969-04-16,Haematology,Routine,2025-12-02,13
+Meadow View Alwoodley Surgery,6314583020,Fábio Domingues,2016-06-28,Orthopaedic,Routine,2026-02-11,3
+Oakwood Surgery,4764162911,Łukasz Bąkiewicz,2004-10-02,Infectious Diseases,Urgent,2025-10-19,19
+Meadow View Alwoodley Surgery,4821468689,pani Julianna Gronostaj,2005-06-03,Gastroenterology,Routine,2026-02-24,1
+Oakwood Surgery,4970045550,Aditya Acharya,1969-08-24,Oncology,Routine,2025-12-23,10
+Oakwood Surgery,4359007086,Nikita Lata,2020-04-13,Rheumatology,Routine,2025-11-29,13
+St. Armley's Medical Group,6224368007,Dr Neil Burke,1934-03-17,Haematology,Routine,2025-09-12,24
+Leeds Medical Practice,6345580260,Yücelen Ertan Akar İnönü,1988-09-26,Gastroenterology,Urgent,2026-01-31,4
+Bluefield Farsley Health Centre,7762329226,Rushil Jani,2001-10-14,Oncology,Routine,2025-11-14,15
+St. Armley's Medical Group,6060958397,Vitória Guerreiro,2022-08-09,Haematology,Urgent,2025-10-22,19
+Leeds Medical Practice,4168777839,Miss Clare Hunt,2020-09-24,Gastroenterology,Urgent,2026-01-09,7
+St. Armley's Medical Group,6929343730,pani Dagmara Moczko,1970-04-09,Orthopaedic,Urgent,2025-12-03,13
+St. Armley's Medical Group,7153432280,Stephen Obasanjo,1996-12-15,Haematology,Urgent,2026-02-09,3
+Meadow View Alwoodley Surgery,7565564702,Silvia Alcolea-Gallo,2025-12-18,Rheumatology,Urgent,2025-12-11,11
+Oakwood Surgery,6221298547,Prudencio Sanz Casas,1939-03-25,Haematology,Two Week Wait (Cancer),2025-11-14,15
+St. Armley's Medical Group,4180221918,Reynaldo Priego Mulet,2019-11-27,Cardiology,Two Week Wait (Cancer),2026-01-16,6
+Bankside GP Partners Bramley,4399048697,Ismael Cruz-Teixeira,2005-09-03,Gastroenterology,Two Week Wait (Cancer),2026-01-27,5
+Oakwood Surgery,7551063528,Nicole Guzdek,2018-06-18,Neurology,Urgent,2025-10-04,21
+Health Centre Beeston,6942140562,Agnos Pop,1948-05-04,Pulmonolgy,Routine,2025-10-26,18
+Leeds Medical Practice,6567011041,Azaan Majumdar,2017-04-18,Neurology,Two Week Wait (Cancer),2025-10-28,18
+Leeds Medical Practice,7735208782,Ruth Obi,2005-01-22,Cardiology,Routine,2025-11-29,13
+Health Centre Beeston,7694668911,Ariadna Marin,1953-03-01,Rheumatology,Two Week Wait (Cancer),2026-02-21,1
+Beacon Health Partnership,7989677326,Faith Abiola,2015-04-25,Gastroenterology,Routine,2025-11-05,17
+The Village Medical Centre,4626322336,Tatiana Pinto,1971-09-15,Pediatrics,Routine,2026-01-20,6
+Beacon Health Partnership,7983955286,Visarion Pușcașu,1975-02-03,Neurology,Routine,2026-01-04,8
+Beacon Health Partnership,4135335896,Gerard Hanson-Potts,1939-03-17,Pulmonolgy,Two Week Wait (Cancer),2025-10-31,17
+Meadow View Alwoodley Surgery,4510250460,Yaşattin Demir,1954-03-14,Gastroenterology,Two Week Wait (Cancer),2025-10-15,20
+Oakwood Surgery,4693120979,Steluța Voinea,2019-11-07,Oncology,Urgent,2026-02-22,1
+Meadow View Alwoodley Surgery,4652714513,Marilena Dima,1965-05-07,Infectious Diseases,Urgent,2026-01-29,4
+Leeds Medical Practice,7073905239,Sorin Ioniță,2001-12-20,Haematology,Two Week Wait (Cancer),2026-02-05,3
+Oakwood Surgery,7120694561,Melania Nistor,1926-05-17,Neurology,Two Week Wait (Cancer),2025-12-09,12
+Oakwood Surgery,4656545023,Mohammed Mall,1976-02-10,Pediatrics,Routine,2025-09-25,22
+Highfield Roundhay Doctors,4852324131,Roberta Nemeș,2005-05-27,Pediatrics,Routine,2025-11-02,17
+Beacon Health Partnership,6758057739,Camila Alves-Faria,2009-04-18,Rheumatology,Routine,2025-12-05,12
+Meadow View Alwoodley Surgery,7290934024,Sebastian Wrochna,2010-08-01,Orthopaedic,Urgent,2025-10-10,20
+The Village Medical Centre,4684583155,Patrícia Alves,1960-06-30,Infectious Diseases,Two Week Wait (Cancer),2025-09-27,22
+Highfield Roundhay Doctors,7235439300,Ashley Gibson-Smith,1958-06-29,Rheumatology,Routine,2025-11-26,14
+The Village Medical Centre,4610169568,Yashvi Panchal,1980-12-09,Cardiology,Two Week Wait (Cancer),2026-02-16,2
+Highfield Roundhay Doctors,6348784371,Chakrika Sha,2022-02-02,Oncology,Urgent,2026-01-17,6
+Meadow View Alwoodley Surgery,6350819187,Urszula Karpik,1986-08-28,Cardiology,Two Week Wait (Cancer),2026-01-10,7
+Health Centre Beeston,4487550033,Jack Carter,2005-08-25,Pediatrics,Two Week Wait (Cancer),2025-09-24,23
+Health Centre Beeston,4595339542,Sarah Akinwale,1963-12-29,Gastroenterology,Two Week Wait (Cancer),2025-09-05,25
+Leeds Medical Practice,4327698016,Maya Deo,2018-06-23,Pediatrics,Two Week Wait (Cancer),2025-09-09,25
+St. Armley's Medical Group,7012967986,Salomé do Fernandes,1964-05-10,Cardiology,Urgent,2025-12-31,9
+Highfield Roundhay Doctors,4597459367,Mitchell Singh,1973-01-01,Rheumatology,Urgent,2025-09-22,23
+Bluefield Farsley Health Centre,4578804240,Alejo Guzman Pino,1958-07-06,Rheumatology,Two Week Wait (Cancer),2026-01-15,6
+St. Armley's Medical Group,6187999223,Mafalda Esteves,1968-10-11,Orthopaedic,Routine,2025-09-06,25
+Health Centre Beeston,4149407665,Robert Kieca,1989-04-13,Oncology,Routine,2026-01-12,7
+Beacon Health Partnership,6639091178,Viviana Pop,1961-05-08,Pediatrics,Routine,2025-12-05,12
+Oakwood Surgery,4312483442,Nazi Türk,1976-10-07,Neurology,Two Week Wait (Cancer),2025-12-18,10
+Highfield Roundhay Doctors,4202685121,Ivan Lourenço,1969-10-23,Gastroenterology,Routine,2025-12-08,12
+The Village Medical Centre,4298614085,Lakshmi Bhattacharyya,1924-11-30,Haematology,Routine,2026-02-06,3
+Leeds Medical Practice,6948616712,Kyle Allen,1978-11-22,Pulmonolgy,Urgent,2025-12-14,11
+Bankside GP Partners Bramley,4964641953,Mrs Alice Davidson,2023-11-10,Neurology,Urgent,2025-11-05,17
+St. Armley's Medical Group,6454794180,Jose Luis Santamaría Tejero,2022-03-29,Haematology,Urgent,2026-02-17,2
+Leeds Medical Practice,4351290838,Ruth Uche,2001-03-27,Infectious Diseases,Urgent,2025-11-18,15
+Beacon Health Partnership,7317000175,Aybet Zerafet Gülen Erdoğan,1966-09-20,Haematology,Two Week Wait (Cancer),2025-12-25,9
+St. Armley's Medical Group,4548685308,Blanka Marcol,1998-08-23,Pediatrics,Routine,2026-02-13,2
+Highfield Roundhay Doctors,6660096779,Alícia Pinho,1964-04-21,Orthopaedic,Routine,2026-02-27,0
+The Village Medical Centre,6881196342,Gaurang Dar,2014-07-21,Infectious Diseases,Routine,2025-11-05,17
+Highfield Roundhay Doctors,4684523292,Ariana Dobre,1991-03-01,Infectious Diseases,Urgent,2026-01-31,4
+Oakwood Surgery,6898414585,Comfort Oshodi,1969-12-08,Pulmonolgy,Routine,2025-09-13,24
+St. Armley's Medical Group,6507952540,Yağızkurt Türk,1999-03-10,Cardiology,Urgent,2026-01-31,4
+Highfield Roundhay Doctors,4544362369,Paul Aanei,1957-06-14,Pediatrics,Urgent,2025-12-30,9
+Leeds Medical Practice,6031087545,Joseph Balogun,1954-05-03,Infectious Diseases,Urgent,2026-03-02,0
+Meadow View Alwoodley Surgery,6684231374,Anamika Kamdar,1999-10-27,Rheumatology,Two Week Wait (Cancer),2026-01-23,5
+Meadow View Alwoodley Surgery,6381876107,Maxi Estévez Carrasco,1991-11-11,Haematology,Urgent,2025-09-05,25
+Highfield Roundhay Doctors,6930480916,Joanne North-Jackson,1998-06-05,Cardiology,Two Week Wait (Cancer),2025-09-12,24
+St. Armley's Medical Group,7627596971,Violeta Folch Acevedo,1965-08-13,Pulmonolgy,Urgent,2026-01-15,6
+Leeds Medical Practice,4017077358,Natan Czerwionka,1983-05-21,Rheumatology,Routine,2026-01-01,8
+Oakwood Surgery,4151608605,Marcelina Miętka,1965-04-07,Pulmonolgy,Urgent,2026-01-28,5
+St. Armley's Medical Group,4985804207,Recepali Dirican Akdeniz Aslan,1985-01-02,Pediatrics,Two Week Wait (Cancer),2026-01-05,8
+Bluefield Farsley Health Centre,7285954519,Fabiana Assunção,1958-10-30,Pediatrics,Urgent,2025-11-14,15
+Meadow View Alwoodley Surgery,4189477176,Maurycy Gumienny,1920-03-07,Gastroenterology,Urgent,2025-11-29,13
+Oakwood Surgery,7743611272,Joy Olawale,1968-09-20,Oncology,Two Week Wait (Cancer),2025-12-28,9
+Beacon Health Partnership,6915921648,Sachi Samra,1926-05-02,Cardiology,Urgent,2026-01-10,7
+Leeds Medical Practice,6605752805,Pamela Archer,1965-10-25,Pediatrics,Routine,2025-11-29,13
+Bluefield Farsley Health Centre,4552653679,Filofteia Georgescu,1982-05-25,Gastroenterology,Two Week Wait (Cancer),2026-01-27,5
+Beacon Health Partnership,4140607564,Valentina Batista,1973-06-20,Orthopaedic,Routine,2026-01-28,5
+Meadow View Alwoodley Surgery,4055774443,Dalaja Ratta,1954-10-19,Rheumatology,Routine,2025-09-06,25
+Oakwood Surgery,4340057169,Dean Skinner,2023-02-24,Pulmonolgy,Urgent,2025-11-05,17
+Health Centre Beeston,4106199211,Diego Riquelme Hurtado,2023-07-21,Neurology,Routine,2026-01-21,6
+Highfield Roundhay Doctors,4688035047,Mitică Tomescu,1950-01-14,Rheumatology,Two Week Wait (Cancer),2026-02-23,1
+Health Centre Beeston,4408451118,Flaviu Ioniță,1926-10-14,Haematology,Routine,2025-12-14,11
+The Village Medical Centre,4046247258,Hope Akinwale,1983-04-04,Infectious Diseases,Urgent,2026-02-06,3
+Leeds Medical Practice,6023949185,Irina Pereira,1935-05-26,Orthopaedic,Two Week Wait (Cancer),2026-03-02,0
+Leeds Medical Practice,4173611048,Mary Abiola,1927-03-14,Rheumatology,Two Week Wait (Cancer),2025-10-25,18
+Bluefield Farsley Health Centre,7918682572,Fortunata de Aliaga,2009-08-29,Gastroenterology,Two Week Wait (Cancer),2025-12-27,9
+Bankside GP Partners Bramley,4828254943,Maanav Vasa,1971-06-10,Rheumatology,Two Week Wait (Cancer),2026-02-15,2
+Bluefield Farsley Health Centre,7409170514,Joshua Uche,1991-03-13,Oncology,Routine,2026-01-22,5
+Health Centre Beeston,4048505912,Bárbara Melo,1982-12-23,Gastroenterology,Two Week Wait (Cancer),2026-02-26,0
+Meadow View Alwoodley Surgery,4635800792,Jodie Walker,1940-08-13,Infectious Diseases,Two Week Wait (Cancer),2026-01-23,5
+Leeds Medical Practice,4281407707,Joaquim Henriques,1932-03-11,Oncology,Urgent,2026-03-01,0
+St. Armley's Medical Group,4160469485,Samuel Olawale,1930-04-05,Pediatrics,Routine,2025-09-13,24
+St. Armley's Medical Group,4135322514,pani Lidia Budzyń,1954-11-07,Rheumatology,Urgent,2026-02-10,3
+Highfield Roundhay Doctors,4917622271,Roksana Kliber,1967-04-26,Pulmonolgy,Routine,2026-01-23,5
+Health Centre Beeston,4216111149,Feremez Tenvir Hançer Akgündüz,1946-09-12,Haematology,Routine,2025-11-08,16
+The Village Medical Centre,4970140030,Gabriel Nnamani,1947-09-25,Neurology,Two Week Wait (Cancer),2025-12-27,9
+Health Centre Beeston,4025206749,Blessing Ekwueme,2024-05-08,Gastroenterology,Two Week Wait (Cancer),2026-01-07,8
+Leeds Medical Practice,6984103614,Elisabeta Dinu,2024-02-11,Infectious Diseases,Two Week Wait (Cancer),2026-02-26,0
+The Village Medical Centre,7056420206,Balhaar Sarkar,2013-07-25,Cardiology,Two Week Wait (Cancer),2025-09-16,24
+Meadow View Alwoodley Surgery,7466484190,Gloria Ramón Dominguez,2010-07-12,Neurology,Two Week Wait (Cancer),2025-10-01,22
+Bluefield Farsley Health Centre,4350989803,Carlos Campos-Azevedo,1970-09-13,Oncology,Urgent,2026-01-12,7
+The Village Medical Centre,4360469071,Teresa de Sá,1962-10-31,Haematology,Two Week Wait (Cancer),2025-11-11,16
+Oakwood Surgery,4718004047,Rafaela Antunes-Gonçalves,1939-06-08,Oncology,Urgent,2026-02-09,3
+Highfield Roundhay Doctors,6465488868,Janaki Grewal,1995-04-15,Neurology,Urgent,2025-09-23,23
+Bankside GP Partners Bramley,4938203871,Sandra Hetmańczyk,1937-02-19,Neurology,Routine,2025-10-30,17
+Health Centre Beeston,7334490517,Cyprian Betlej,1955-12-24,Pulmonolgy,Routine,2025-09-14,24
+Meadow View Alwoodley Surgery,6113243729,Hazine Birgül Soylu,2013-02-17,Pediatrics,Two Week Wait (Cancer),2025-10-12,20
+Bluefield Farsley Health Centre,4887499221,Samuel Uche,1921-05-24,Orthopaedic,Routine,2026-02-03,4
+St. Armley's Medical Group,4240374634,Mary Chukwu,2022-11-28,Haematology,Urgent,2026-02-11,3
+Bankside GP Partners Bramley,7908884865,İsak Duran,2006-07-07,Oncology,Two Week Wait (Cancer),2026-01-19,6
+Highfield Roundhay Doctors,7912503218,Paul Okafor,1987-07-10,Cardiology,Urgent,2025-11-18,15
+St. Armley's Medical Group,4847500164,Benedita Fernandes,1946-09-19,Pediatrics,Routine,2025-10-27,18
+Health Centre Beeston,6386379926,Anita Andrade,1941-05-01,Oncology,Two Week Wait (Cancer),2026-01-10,7
+Leeds Medical Practice,4821661063,Reece Long,1979-10-17,Gastroenterology,Urgent,2025-12-08,12
+Bluefield Farsley Health Centre,6164937914,Dida Voinea,1928-07-16,Cardiology,Urgent,2026-02-05,3
+Leeds Medical Practice,4133245873,Marek Tomaszkiewicz,2018-10-20,Infectious Diseases,Routine,2026-02-21,1
+The Village Medical Centre,4531855256,Ortansa Diaconu,1959-10-03,Pulmonolgy,Routine,2025-11-27,13
+Oakwood Surgery,7951201391,Anita Bielat,2025-07-06,Orthopaedic,Two Week Wait (Cancer),2025-10-28,18
+Highfield Roundhay Doctors,6853771990,Hemani Solanki,2006-07-31,Cardiology,Two Week Wait (Cancer),2025-12-11,11
+Oakwood Surgery,6764583587,Grace Oyekan,1983-04-19,Rheumatology,Two Week Wait (Cancer),2025-10-06,21
+Bankside GP Partners Bramley,4895360725,Victor Manuel Castells Fabregat,1931-06-11,Haematology,Two Week Wait (Cancer),2025-10-28,18
+Meadow View Alwoodley Surgery,4079936265,Kevin Holmes,1953-11-12,Haematology,Two Week Wait (Cancer),2026-02-12,2
+Beacon Health Partnership,6623188452,Wriddhish Kumar,2005-07-23,Pulmonolgy,Routine,2025-09-29,22
+Oakwood Surgery,4247348434,Blessing Adeyemi,1939-05-21,Haematology,Two Week Wait (Cancer),2025-10-04,21
+Leeds Medical Practice,4885439876,Andreea Albu,1942-07-11,Cardiology,Two Week Wait (Cancer),2025-09-06,25
+Oakwood Surgery,4661163583,Ojasvi Rama,1987-10-15,Infectious Diseases,Two Week Wait (Cancer),2025-12-20,10
+Oakwood Surgery,4179131137,Bartolomeu Stănescu,1979-07-06,Neurology,Urgent,2026-03-02,0
+Leeds Medical Practice,7178320087,Barry Chapman-Randall,2020-03-06,Haematology,Two Week Wait (Cancer),2026-02-07,3
+Beacon Health Partnership,6613692964,Ivo Esteves,2006-12-31,Cardiology,Urgent,2025-10-14,20
+Oakwood Surgery,6250015418,Uz. Karaer Görklü İhsanoğlu,1948-10-10,Oncology,Two Week Wait (Cancer),2025-11-08,16
+Highfield Roundhay Doctors,4313881255,Teresa do Branco,1949-08-12,Gastroenterology,Two Week Wait (Cancer),2025-12-20,10
+Oakwood Surgery,4385577722,Öğr. Cabir Gül,1963-03-02,Rheumatology,Routine,2025-10-18,19
+Bankside GP Partners Bramley,6846921133,Natalia Şener Korutürk,2004-09-25,Cardiology,Routine,2025-11-07,16
+Health Centre Beeston,6819547846,Dr Christopher Thomas,1930-02-28,Cardiology,Two Week Wait (Cancer),2026-03-01,0
+St. Armley's Medical Group,4865799702,Agnes Obasanjo,1947-02-21,Orthopaedic,Two Week Wait (Cancer),2025-11-14,15
+Bankside GP Partners Bramley,4461143503,Luís Antunes,1969-01-29,Orthopaedic,Two Week Wait (Cancer),2026-01-21,6
+The Village Medical Centre,6573414942,Tomás Cruz,1981-07-12,Pulmonolgy,Urgent,2026-03-02,0
+Leeds Medical Practice,6687695983,Sabina Dinu,1985-12-31,Pediatrics,Routine,2025-12-10,12
+Meadow View Alwoodley Surgery,7482121234,Joshua Richardson-Simpson,1987-11-21,Infectious Diseases,Two Week Wait (Cancer),2025-11-29,13
+The Village Medical Centre,6759114957,Hiçsönmez Arsoy,2022-06-07,Cardiology,Routine,2025-12-13,11
+Bankside GP Partners Bramley,4721918208,Marisa Amat Polo,2025-08-01,Pediatrics,Routine,2026-01-17,6
+Bankside GP Partners Bramley,7553701580,Alcides Alberto Blanca,1984-01-26,Infectious Diseases,Two Week Wait (Cancer),2026-02-18,2
+Meadow View Alwoodley Surgery,4420854790,Conrado Blázquez Garzón,1943-01-29,Cardiology,Two Week Wait (Cancer),2025-10-06,21
+St. Armley's Medical Group,4395361854,Bianca Gomes-Pires,2023-06-21,Cardiology,Urgent,2025-09-20,23
+Highfield Roundhay Doctors,4681644706,Geetika Som,2016-05-23,Pulmonolgy,Routine,2025-10-07,21
+St. Armley's Medical Group,7104360492,Alan Malarczyk,1969-09-13,Neurology,Routine,2025-11-11,16
+Meadow View Alwoodley Surgery,7087094556,pan Cezary Pastuła,1993-10-09,Haematology,Routine,2025-11-22,14
+Leeds Medical Practice,6285735824,Özdil Hançer,1923-04-27,Pediatrics,Two Week Wait (Cancer),2025-11-22,14
+Bluefield Farsley Health Centre,6531826487,Patryk Podleśna,1929-07-25,Orthopaedic,Urgent,2026-02-27,0
+The Village Medical Centre,7978591344,Ms Laura Sykes,1972-07-14,Orthopaedic,Two Week Wait (Cancer),2026-02-16,2
+Bluefield Farsley Health Centre,6771561445,Tecla Corominas Noguera,1979-04-29,Rheumatology,Two Week Wait (Cancer),2025-10-09,20
+Oakwood Surgery,4460438445,Aurelia Ene,1921-04-29,Pulmonolgy,Routine,2025-09-27,22
+St. Armley's Medical Group,4190140473,Blanka Sutor,1991-04-24,Neurology,Urgent,2025-11-08,16
+Bluefield Farsley Health Centre,6924052061,Zinal Malhotra,1988-02-18,Gastroenterology,Routine,2025-12-14,11
+Meadow View Alwoodley Surgery,4459189615,Juliusz Palonek,1962-10-12,Neurology,Routine,2025-10-28,18
+St. Armley's Medical Group,4807217127,Samu Conde Miralles,2009-01-01,Neurology,Two Week Wait (Cancer),2026-02-19,1
+The Village Medical Centre,4394801710,Kevin Esteves,1944-10-29,Oncology,Two Week Wait (Cancer),2026-01-02,8
+Oakwood Surgery,6755618012,Büreyre Soylu,1967-07-21,Rheumatology,Urgent,2026-01-28,5
+Beacon Health Partnership,7559281532,Mr Francis Lloyd,1995-11-09,Haematology,Urgent,2026-02-11,3
+Beacon Health Partnership,7427815149,Victoria Akinwale,1951-06-23,Orthopaedic,Urgent,2025-11-02,17
+Highfield Roundhay Doctors,4624517598,Uz. Sevginur Güçlü Öcalan,2009-07-20,Orthopaedic,Urgent,2026-01-31,4
+Beacon Health Partnership,6219557093,Valentina Pires,1956-04-08,Oncology,Two Week Wait (Cancer),2025-10-31,17
+Health Centre Beeston,6808994773,Mark Akinwale,1996-07-24,Cardiology,Two Week Wait (Cancer),2025-09-25,22
+Highfield Roundhay Doctors,4247598864,Salkın Türk,1997-08-21,Cardiology,Two Week Wait (Cancer),2025-11-24,14
+Highfield Roundhay Doctors,4451149975,Maximino Lucena Fiol,1958-08-16,Cardiology,Routine,2025-11-15,15
+Leeds Medical Practice,7225558080,Bernardino Peláez Vera,2016-04-13,Pediatrics,Urgent,2025-10-21,19
+Leeds Medical Practice,6142985509,Adela Saldaña Tapia,1978-05-07,Haematology,Two Week Wait (Cancer),2026-01-08,7
+Leeds Medical Practice,7496836974,Esther Ekwueme,1981-09-17,Pulmonolgy,Routine,2026-02-24,1
+Bluefield Farsley Health Centre,4525130040,Nicolaie Manole,1952-09-14,Haematology,Urgent,2025-11-13,15
+Oakwood Surgery,7125236340,Carmelita Juliá Lledó,1926-03-22,Haematology,Routine,2025-10-05,21
+The Village Medical Centre,6512349954,Peter Sahota,1930-06-08,Pediatrics,Two Week Wait (Cancer),2025-09-30,22
+The Village Medical Centre,4806622176,Muhyettin Akça,2009-08-31,Gastroenterology,Two Week Wait (Cancer),2025-11-13,15
+Oakwood Surgery,7511637124,Çıdal Ertaş,1930-07-16,Pediatrics,Routine,2025-12-13,11
+Meadow View Alwoodley Surgery,4967074626,pani Marianna Smętek,1982-06-23,Oncology,Urgent,2025-10-27,18
+Meadow View Alwoodley Surgery,4613650518,Urvi Mital,1989-03-08,Rheumatology,Urgent,2025-09-22,23
+Bankside GP Partners Bramley,4890396187,Paula Vaughan,1931-08-12,Rheumatology,Urgent,2026-02-14,2
+Beacon Health Partnership,4948720607,Rabih Tarhan,2001-12-11,Oncology,Urgent,2026-01-09,7
+The Village Medical Centre,4662134366,Ganga Ghosh,2008-07-04,Neurology,Urgent,2025-09-10,25
+St. Armley's Medical Group,6856983700,Shaun Watson,1977-03-01,Orthopaedic,Routine,2025-11-03,17
+Bankside GP Partners Bramley,4964890155,Av. Bitül Fildan Sezgin,1979-07-26,Infectious Diseases,Urgent,2025-12-08,12
+Bankside GP Partners Bramley,7178106786,Jan Sapała,1998-06-18,Pulmonolgy,Urgent,2025-10-16,19
+Oakwood Surgery,6463718912,Dr Billy Taylor,1946-03-05,Rheumatology,Two Week Wait (Cancer),2026-02-17,2
+Leeds Medical Practice,4489695748,Joseph Akinwale,1989-02-15,Gastroenterology,Urgent,2025-11-01,17
+Beacon Health Partnership,4794318804,Juliusz Pyć,1968-11-18,Pediatrics,Urgent,2025-09-29,22
+Oakwood Surgery,6559168778,Nikodem Pietraszkiewicz,1958-08-13,Oncology,Two Week Wait (Cancer),2025-10-07,21
+Highfield Roundhay Doctors,7963629359,pani Melania Wielgos,1990-10-22,Gastroenterology,Urgent,2025-10-30,17
+Health Centre Beeston,6821785066,Sever Georgescu,1949-12-04,Infectious Diseases,Routine,2026-02-01,4
+Oakwood Surgery,4416057938,Eta Rao,1976-06-10,Infectious Diseases,Routine,2025-12-14,11
+Bluefield Farsley Health Centre,6773561914,Yasmin Azevedo,1954-01-09,Cardiology,Urgent,2025-10-01,22
+Highfield Roundhay Doctors,7071101744,Leonardo Mendes,1959-07-21,Infectious Diseases,Routine,2025-12-28,9
+Meadow View Alwoodley Surgery,7720416767,Lohit Raman,2007-11-10,Oncology,Two Week Wait (Cancer),2025-10-27,18
+The Village Medical Centre,7472851361,Hidir Erdoğan,1973-03-30,Orthopaedic,Two Week Wait (Cancer),2025-09-22,23
+Bankside GP Partners Bramley,4433679933,Augustina Dochioiu,1981-07-31,Oncology,Urgent,2026-01-01,8
+Leeds Medical Practice,6902910944,Dr Clive Coleman,1968-09-21,Pediatrics,Routine,2026-01-21,6
+Leeds Medical Practice,4093813159,Marianela Zaragoza Solana,1923-06-27,Cardiology,Two Week Wait (Cancer),2026-01-02,8
+The Village Medical Centre,4956804776,Miriam-Lúcia Freitas,2004-08-23,Haematology,Routine,2026-02-15,2
+Bluefield Farsley Health Centre,7021012853,Leopoldina Nistor,1941-12-03,Haematology,Two Week Wait (Cancer),2025-10-30,17
+The Village Medical Centre,4400590305,Sebastian Jarosiewicz,1949-02-01,Pulmonolgy,Two Week Wait (Cancer),2025-09-10,25
+Bluefield Farsley Health Centre,6906982850,Monika Buczko,1922-06-10,Rheumatology,Two Week Wait (Cancer),2025-10-14,20
+Health Centre Beeston,4971969772,Esther Adeyemi,1964-11-21,Haematology,Two Week Wait (Cancer),2026-01-21,6
+Highfield Roundhay Doctors,6807058748,Graham Black,2019-11-26,Oncology,Two Week Wait (Cancer),2025-09-26,22
+Health Centre Beeston,4637701236,Fanny Roberta Aznar Araujo,1954-01-16,Gastroenterology,Routine,2026-01-24,5
+Beacon Health Partnership,7088219018,Rufino Régulo Rueda Llobet,2008-10-22,Haematology,Urgent,2025-09-10,25
+The Village Medical Centre,4069516085,Nechifor Dochioiu,1973-08-04,Gastroenterology,Urgent,2025-10-06,21
+Bluefield Farsley Health Centre,7209779493,George Popa,1925-05-03,Infectious Diseases,Routine,2026-02-26,0
+Oakwood Surgery,4181770842,Francisco Coelho-Matias,1922-07-29,Haematology,Urgent,2025-12-25,9
+Bankside GP Partners Bramley,7211672951,Luna Anjos-Garcia,2020-04-06,Pediatrics,Two Week Wait (Cancer),2025-10-18,19
+Meadow View Alwoodley Surgery,6098000581,David Ibrahim,1931-08-01,Pulmonolgy,Routine,2025-12-01,13
+Oakwood Surgery,6608291574,Júlia-Patrícia Miranda,1997-04-10,Pediatrics,Urgent,2025-10-08,21
+Health Centre Beeston,6324069133,Ozansü Fırat,1989-11-22,Neurology,Urgent,2025-10-27,18
+Health Centre Beeston,7136065143,Vamakshi Divan,1958-10-11,Cardiology,Two Week Wait (Cancer),2025-12-17,11
+The Village Medical Centre,4853217983,Stancu Stan,1975-07-18,Neurology,Routine,2025-12-29,9
+Bluefield Farsley Health Centre,4471310216,Barışcan Kibar Korutürk Akça,2008-02-12,Oncology,Routine,2025-12-14,11
+Leeds Medical Practice,4749053538,Mikołaj Stróż,1960-05-22,Gastroenterology,Two Week Wait (Cancer),2025-10-11,20
+St. Armley's Medical Group,7204363310,Lucky Natarajan,1980-11-29,Haematology,Two Week Wait (Cancer),2026-01-03,8
+Meadow View Alwoodley Surgery,7689070418,Gică Marin,1920-04-28,Infectious Diseases,Routine,2025-12-28,9
+Bluefield Farsley Health Centre,4831887013,Jodie Hall,1921-10-04,Haematology,Urgent,2026-01-09,7
+Oakwood Surgery,6144836160,Juan Manuel de Lledó,1991-02-23,Pulmonolgy,Urgent,2025-09-13,24
+Bankside GP Partners Bramley,4285961164,Miss Aimee Hamilton,2018-03-31,Gastroenterology,Urgent,2025-11-22,14
+Beacon Health Partnership,4653234639,Arş. Gör. Güverçin Mükrüme Yüksel Çetin,1922-05-17,Pulmonolgy,Routine,2025-12-07,12
+St. Armley's Medical Group,6924747841,Danilo Gallego Palacio,1933-05-28,Neurology,Routine,2025-09-20,23
+Oakwood Surgery,4678572589,Alma Toma,1954-08-01,Pulmonolgy,Two Week Wait (Cancer),2025-10-09,20
+Highfield Roundhay Doctors,7415449347,Georgiana Barbu,2005-02-06,Haematology,Routine,2025-12-29,9
+Bankside GP Partners Bramley,6399193532,Lina Iglesia Gutierrez,1997-03-21,Gastroenterology,Routine,2025-11-16,15
+Meadow View Alwoodley Surgery,4398857915,Ishita Brahmbhatt,1965-04-04,Pediatrics,Two Week Wait (Cancer),2026-01-24,5
+Health Centre Beeston,4535681821,Ignacia Dafne Álamo Pedrosa,1980-04-01,Infectious Diseases,Urgent,2025-09-06,25
+Highfield Roundhay Doctors,4990191676,Clarisa Batalla Múgica,1961-04-03,Oncology,Urgent,2025-09-08,25
+Highfield Roundhay Doctors,6670454937,Çıvgın Gökçebalan Fırat Ertaş,1931-11-04,Pediatrics,Urgent,2025-09-29,22
+Meadow View Alwoodley Surgery,7278659558,César Campos,1978-06-14,Infectious Diseases,Urgent,2025-12-11,11
+Bankside GP Partners Bramley,4897031222,Zenovia Pușcașu,1944-02-28,Orthopaedic,Urgent,2025-09-19,23
+Health Centre Beeston,4312011885,Gil Boada Aguado,1980-12-11,Infectious Diseases,Two Week Wait (Cancer),2026-02-28,0
+Oakwood Surgery,7696920626,Xiti Ganguly,1994-10-18,Orthopaedic,Routine,2026-02-05,3
+St. Armley's Medical Group,7392865943,Ruxandra Dumitrescu,2007-08-21,Pediatrics,Urgent,2025-09-24,23
+Bluefield Farsley Health Centre,4431154507,Aarush Parikh,1939-02-09,Cardiology,Two Week Wait (Cancer),2025-09-25,22
+Beacon Health Partnership,7726789026,Elías Aguilera Flores,1967-10-11,Rheumatology,Two Week Wait (Cancer),2026-01-14,7
+Oakwood Surgery,6913389639,Alan Lempart,1956-12-27,Oncology,Two Week Wait (Cancer),2025-10-27,18
+Health Centre Beeston,4915467406,Duncan Murphy,1963-04-28,Pediatrics,Routine,2025-11-09,16
+Bluefield Farsley Health Centre,6351173604,Victoria Obi,1980-03-27,Pulmonolgy,Urgent,2026-01-28,5
+Bluefield Farsley Health Centre,4446455176,Marianna Drynda,1992-05-23,Pediatrics,Routine,2025-10-29,18
+Leeds Medical Practice,7515189282,Damian Arnold-Simpson,1946-02-07,Rheumatology,Urgent,2025-10-10,20
+Beacon Health Partnership,4976772012,pan Konrad Antoń,1921-12-02,Neurology,Urgent,2025-09-21,23
+Health Centre Beeston,4498787900,Cebesoy Arslan,1945-03-23,Pulmonolgy,Urgent,2026-01-24,5
+Bankside GP Partners Bramley,7809754815,Gheorghe Florea,1974-03-06,Rheumatology,Routine,2026-02-12,2
+St. Armley's Medical Group,4794987161,İvecen Salami Kısakürek Tevetoğlu,1957-02-04,Pulmonolgy,Two Week Wait (Cancer),2025-10-05,21
+The Village Medical Centre,4464899587,Emrullah Akçay,2024-01-05,Pulmonolgy,Routine,2025-12-12,11
+Beacon Health Partnership,4746411093,Ranbir Thakkar,2002-07-01,Rheumatology,Routine,2026-01-19,6
+Bluefield Farsley Health Centre,7062563838,Kete Ulakbey Şener Yüksel,1977-09-11,Infectious Diseases,Urgent,2025-12-02,13
+The Village Medical Centre,4488268137,Gloria Eze,1963-07-26,Infectious Diseases,Routine,2026-01-29,4
+Highfield Roundhay Doctors,4938509873,Sançar Çorlu,1928-05-06,Oncology,Two Week Wait (Cancer),2026-01-20,6
+Oakwood Surgery,4171668271,Amada Sonia Rios Pérez,1973-07-14,Orthopaedic,Two Week Wait (Cancer),2025-11-23,14
+The Village Medical Centre,4157759850,Lucas Batista,1920-08-28,Pediatrics,Two Week Wait (Cancer),2026-01-07,8
+Beacon Health Partnership,4141574694,Dr Dylan Holland,1975-03-25,Rheumatology,Routine,2026-01-29,4
+St. Armley's Medical Group,6508800426,Yutika Zacharia,2022-12-21,Neurology,Two Week Wait (Cancer),2025-12-31,9
+Health Centre Beeston,4771905150,Flor da Magalhães,2003-11-15,Neurology,Routine,2025-10-24,18
+Health Centre Beeston,4718324068,Corneliu Toma,1958-10-01,Neurology,Urgent,2026-02-07,3
+Meadow View Alwoodley Surgery,4046473177,Abbie Blackburn-Ingram,2013-05-06,Pediatrics,Routine,2025-10-24,18
+Health Centre Beeston,4822031349,Paul Adetokunbo,2018-10-15,Oncology,Routine,2025-11-29,13
+Bluefield Farsley Health Centre,4131712725,Ghenadie Cristea,2009-04-02,Gastroenterology,Urgent,2025-09-22,23
+St. Armley's Medical Group,7102101481,Julian Gruszczyk,2018-09-05,Haematology,Two Week Wait (Cancer),2025-10-26,18
+Meadow View Alwoodley Surgery,4807097288,pani Anastazja Kapuścik,1973-06-02,Haematology,Two Week Wait (Cancer),2025-12-05,12
+Leeds Medical Practice,4601241758,Andiç Çetin,2005-10-22,Pulmonolgy,Routine,2026-01-13,7
+Oakwood Surgery,4247596942,Kamil Lorenz,1921-02-25,Rheumatology,Routine,2026-02-05,3
+The Village Medical Centre,7631951934,Öğr. Gelengül Gül Bilir,1942-03-07,Infectious Diseases,Urgent,2025-12-12,11
+Highfield Roundhay Doctors,7274386263,Andrew Chukwu,1972-06-17,Haematology,Two Week Wait (Cancer),2026-01-20,6
+Health Centre Beeston,7232744196,Cláudio de Pinto,1956-07-19,Oncology,Routine,2025-10-24,18
+Highfield Roundhay Doctors,6489193787,Radosław Pabiś,2024-09-27,Infectious Diseases,Two Week Wait (Cancer),2026-01-04,8
+Highfield Roundhay Doctors,4181667022,Fabiana Pinheiro,1957-05-20,Rheumatology,Urgent,2025-09-17,24
+Health Centre Beeston,4558478844,Anastasia Alcántara,1945-12-28,Oncology,Routine,2025-12-13,11
+Bluefield Farsley Health Centre,7665410952,Ashleigh Roberts,2006-10-25,Neurology,Urgent,2025-12-14,11
+Leeds Medical Practice,6519094862,Gil Guerreiro,2004-07-26,Pediatrics,Two Week Wait (Cancer),2026-01-26,5
+Meadow View Alwoodley Surgery,4115995092,Bishakha Natt,1966-01-28,Pediatrics,Urgent,2026-01-04,8
+Bankside GP Partners Bramley,7416835534,Rachael Khan,2019-06-27,Neurology,Routine,2025-09-12,24
+Meadow View Alwoodley Surgery,6946034414,Cornelius Adeyemi,1923-06-23,Orthopaedic,Urgent,2026-01-19,6
+Bluefield Farsley Health Centre,7699598342,Chaitaly Hegde,1958-07-23,Pulmonolgy,Routine,2025-10-05,21
+Bankside GP Partners Bramley,6923383838,Esther Akinwale,2010-08-11,Oncology,Urgent,2025-11-23,14
+Bankside GP Partners Bramley,4534998449,Melissa Moura,1994-01-17,Rheumatology,Routine,2025-10-22,19
+The Village Medical Centre,6959969077,Joanne Tomlinson,2019-07-24,Cardiology,Routine,2025-11-28,13
+Bluefield Farsley Health Centre,6184697870,Graciana Tomás Juliá,1953-08-03,Oncology,Urgent,2025-10-30,17
+Highfield Roundhay Doctors,4047586609,Vanessa Jones,2015-03-13,Infectious Diseases,Urgent,2025-11-12,16
+The Village Medical Centre,4544094585,Champak Mitra,1966-04-11,Infectious Diseases,Two Week Wait (Cancer),2025-10-31,17
+St. Armley's Medical Group,6613611743,Wiktor Goska,2019-02-12,Cardiology,Urgent,2026-01-17,6
+Bluefield Farsley Health Centre,6733004135,Emilia Pușcașu,1996-06-15,Pulmonolgy,Routine,2025-11-19,15
+Highfield Roundhay Doctors,7199618336,Felipa Paniagua Sureda,1938-02-04,Orthopaedic,Urgent,2025-09-30,22
+Highfield Roundhay Doctors,4361657173,Wilson Henriques,2002-12-24,Oncology,Urgent,2026-01-20,6
+Oakwood Surgery,6642441419,Qabil Sethi,1973-11-30,Pulmonolgy,Routine,2025-09-30,22
+Health Centre Beeston,6785508851,Elpidio del Cuervo,1955-06-01,Cardiology,Urgent,2025-10-22,19
+Beacon Health Partnership,4141835919,Nathan Jones,1980-02-28,Orthopaedic,Two Week Wait (Cancer),2025-11-30,13
+The Village Medical Centre,6451151254,Kerry Cox,1922-06-22,Cardiology,Routine,2025-11-09,16
+Meadow View Alwoodley Surgery,6390692234,Erika Amaral,1993-01-23,Oncology,Urgent,2025-09-08,25
+Leeds Medical Practice,4162416109,José Luis del Feliu,2020-01-25,Rheumatology,Urgent,2026-02-10,3
+Beacon Health Partnership,6411809119,Fidel Gual Canals,1925-11-02,Infectious Diseases,Routine,2025-10-25,18
+Bankside GP Partners Bramley,4539693581,Tadeusz Juśkiewicz,1983-07-06,Pulmonolgy,Routine,2026-01-01,8
+The Village Medical Centre,7432157863,Tamanna Garde,1931-11-09,Gastroenterology,Two Week Wait (Cancer),2026-01-24,5
+Oakwood Surgery,7207684096,Catherine Ross,1929-08-25,Pediatrics,Routine,2025-12-05,12
+Highfield Roundhay Doctors,6047921795,Kathleen Robinson,1937-08-09,Pediatrics,Routine,2025-09-13,24
+Meadow View Alwoodley Surgery,4158160316,Renata Lima,1970-12-17,Cardiology,Urgent,2025-10-02,21
+Leeds Medical Practice,7168350439,Margarida Freitas,1981-06-16,Infectious Diseases,Routine,2025-11-04,17
+Highfield Roundhay Doctors,4278228015,Nikita Mandal,1927-05-16,Pulmonolgy,Urgent,2025-10-15,20
+The Village Medical Centre,4637005345,Stana Ardelean,2005-03-04,Pulmonolgy,Two Week Wait (Cancer),2026-01-27,5
+St. Armley's Medical Group,6634455430,Rehaan Batra,1938-10-24,Oncology,Routine,2026-01-24,5
+Bluefield Farsley Health Centre,6298887377,Silvian Ioniță,1934-09-22,Neurology,Two Week Wait (Cancer),2025-12-04,12
+Leeds Medical Practice,4039651774,Isaiah Nori,1955-11-19,Rheumatology,Two Week Wait (Cancer),2025-10-14,20
+Leeds Medical Practice,6552953542,Denise Ellis,2008-07-23,Orthopaedic,Routine,2026-02-04,4
+Bankside GP Partners Bramley,6825721186,Perinur Soylu,1972-01-22,Pulmonolgy,Routine,2026-02-04,4
+Bluefield Farsley Health Centre,4478655537,Julia Pop,2008-05-24,Pediatrics,Urgent,2026-01-26,5
+Bluefield Farsley Health Centre,4660078787,Faith Ojo,1978-06-20,Cardiology,Urgent,2025-11-30,13
+Bluefield Farsley Health Centre,4241072615,Paul Cartwright,1985-04-15,Rheumatology,Routine,2026-01-27,5
+Meadow View Alwoodley Surgery,4131447150,Sabrina Toma,1988-05-11,Pediatrics,Two Week Wait (Cancer),2025-10-12,20
+The Village Medical Centre,6889427947,Arin Menon,1986-02-25,Haematology,Urgent,2026-01-02,8
+Meadow View Alwoodley Surgery,7277239121,Mary Obi,1966-03-26,Pediatrics,Urgent,2025-09-11,24
+Highfield Roundhay Doctors,4295090255,Feliciana Alcántara-Cañete,1973-07-08,Pediatrics,Routine,2025-09-24,23
+Meadow View Alwoodley Surgery,4039069250,Comfort Oshodi,1928-08-09,Rheumatology,Routine,2026-02-03,4
+St. Armley's Medical Group,6905324256,Daniel Cunha,1997-06-26,Neurology,Two Week Wait (Cancer),2026-01-23,5
+Highfield Roundhay Doctors,7959945047,Ojasvi Datta,1991-05-09,Orthopaedic,Two Week Wait (Cancer),2025-11-09,16
+Health Centre Beeston,4250772772,Gheorghiță Mocanu,2023-09-07,Neurology,Routine,2026-01-11,7
+Oakwood Surgery,7522876753,Sally Jones-Daly,1929-10-01,Oncology,Two Week Wait (Cancer),2025-11-17,15
+Bluefield Farsley Health Centre,6310266721,Mélanie Mendes,1945-10-06,Gastroenterology,Routine,2025-10-25,18
+Bluefield Farsley Health Centre,4733112068,Leanne Davies,1973-10-08,Cardiology,Urgent,2025-10-10,20
+The Village Medical Centre,7333289877,Marta Abreu-Pinheiro,1986-03-04,Cardiology,Routine,2025-12-09,12
+Highfield Roundhay Doctors,4377678035,Łukasz Kulus,1989-01-22,Cardiology,Routine,2025-11-26,14
+Beacon Health Partnership,4163974903,Dorota Godzisz,1967-10-03,Neurology,Routine,2026-02-19,1
+Leeds Medical Practice,4428907095,Octavia del Infante,1961-06-21,Rheumatology,Routine,2025-09-30,22
+Oakwood Surgery,6519938297,Angela Akinwale,2001-01-27,Gastroenterology,Routine,2026-02-28,0
+Bluefield Farsley Health Centre,7898357930,Agnes Obasanjo,1942-07-08,Haematology,Routine,2026-01-10,7
+Meadow View Alwoodley Surgery,4913261584,Cansin Serda Şensoy Demirel,2003-10-17,Gastroenterology,Urgent,2026-01-22,5
+Oakwood Surgery,4901091425,Aurelia Ostapczuk,1962-09-22,Neurology,Two Week Wait (Cancer),2026-02-06,3
+Bluefield Farsley Health Centre,4685500423,Reece Morris-Carroll,1985-04-12,Orthopaedic,Urgent,2025-12-22,10
+The Village Medical Centre,4828376380,Baudelio Leopoldo Pineda Alcalá,1938-09-03,Pediatrics,Urgent,2025-12-28,9
+Health Centre Beeston,4562624345,Justyna Młyńczak,2000-12-10,Gastroenterology,Routine,2025-11-02,17
+Highfield Roundhay Doctors,7350704291,Janani Shukla,2006-09-14,Rheumatology,Two Week Wait (Cancer),2026-02-12,2
+Oakwood Surgery,6553430772,Gabriel Ekwueme,1969-06-10,Infectious Diseases,Two Week Wait (Cancer),2025-09-06,25
+Health Centre Beeston,6819986378,Betina Manole,1965-04-23,Infectious Diseases,Two Week Wait (Cancer),2025-12-25,9
+Health Centre Beeston,6458937032,Pilar Morais,2006-12-17,Haematology,Two Week Wait (Cancer),2025-12-13,11
+St. Armley's Medical Group,4271330965,Bruna Figueiredo-Paiva,1972-08-02,Pediatrics,Urgent,2025-12-25,9
+Oakwood Surgery,4799792598,Violeta Guerreiro,1946-08-07,Rheumatology,Urgent,2025-11-24,14
+The Village Medical Centre,7799155019,Kacper Stuglik,1984-10-15,Neurology,Urgent,2026-02-17,2
+Oakwood Surgery,7190325301,Peter Abiola,2024-08-28,Haematology,Urgent,2026-01-04,8
+Meadow View Alwoodley Surgery,4614583865,pani Nicole Garbaciak,2009-10-09,Pediatrics,Two Week Wait (Cancer),2025-09-21,23
+Highfield Roundhay Doctors,6853503694,Tansev Akçay,1989-08-24,Infectious Diseases,Two Week Wait (Cancer),2026-02-08,3
+Meadow View Alwoodley Surgery,6455084365,Vasudha Koshy,1997-02-28,Orthopaedic,Routine,2025-12-30,9
+Highfield Roundhay Doctors,7932257921,Aahana Chopra,1929-11-12,Pediatrics,Routine,2025-12-11,11
+Health Centre Beeston,4550546581,Arş. Gör. Şöhret Lâle Türk,1960-03-09,Infectious Diseases,Urgent,2025-12-30,9
+Meadow View Alwoodley Surgery,7167701521,Roldán Salamanca Prada,1969-10-25,Neurology,Two Week Wait (Cancer),2025-12-17,11
+Beacon Health Partnership,4918604781,Visitación Duran Paz,1935-06-09,Pulmonolgy,Urgent,2026-01-28,5
+Beacon Health Partnership,4182133617,Aarón Laguna Barral,1940-05-18,Gastroenterology,Two Week Wait (Cancer),2026-02-12,2
+The Village Medical Centre,6805996910,Ernest Moneta,1926-06-13,Rheumatology,Urgent,2025-10-23,18
+St. Armley's Medical Group,6748584620,Aristița Mazilescu,1930-09-12,Infectious Diseases,Two Week Wait (Cancer),2025-09-22,23
+St. Armley's Medical Group,6666480708,Melchor Mayoral Cifuentes,2007-10-09,Neurology,Routine,2025-10-14,20
+Health Centre Beeston,4842563826,Samuel Chukwu,1973-12-04,Orthopaedic,Routine,2025-10-22,19
+Bluefield Farsley Health Centre,4509059396,Dr Lindsey Parkes,1938-11-28,Orthopaedic,Urgent,2025-11-18,15
+Bluefield Farsley Health Centre,6260320310,Cleopatra Stan,1950-08-30,Cardiology,Two Week Wait (Cancer),2026-01-13,7
+Leeds Medical Practice,6676662949,Dr. Hatin Sezer Akça,2012-05-05,Haematology,Two Week Wait (Cancer),2025-09-18,23
+Leeds Medical Practice,7604319130,Carmela Casal Salvador,1931-05-25,Rheumatology,Two Week Wait (Cancer),2025-09-15,24
+Bankside GP Partners Bramley,6449328916,Logan Tripathi,1967-07-12,Cardiology,Routine,2025-11-24,14
+Oakwood Surgery,4860272285,Yauvani Wadhwa,1932-07-27,Pulmonolgy,Routine,2026-02-24,1
+Highfield Roundhay Doctors,7400354043,Benjamin Ojo,1983-12-14,Rheumatology,Routine,2026-01-21,6
+Beacon Health Partnership,4292050236,Eustațiu Ioniță,1969-12-11,Cardiology,Two Week Wait (Cancer),2025-12-21,10
+Leeds Medical Practice,4974514903,Monalisa Popescu,1954-07-23,Cardiology,Two Week Wait (Cancer),2025-11-04,17
+The Village Medical Centre,7451072967,Kala Saha,1962-09-03,Rheumatology,Urgent,2025-11-03,17
+Health Centre Beeston,7173628016,Sara Pinto,1967-04-27,Rheumatology,Two Week Wait (Cancer),2025-10-30,17
+Leeds Medical Practice,4420017457,Daniel Olawale,2021-10-22,Rheumatology,Routine,2026-02-01,4
+St. Armley's Medical Group,7226490501,Renata Coll,1974-02-01,Infectious Diseases,Two Week Wait (Cancer),2025-10-29,18
+Bluefield Farsley Health Centre,4051956695,Gaja Kulon,1941-04-22,Pulmonolgy,Two Week Wait (Cancer),2025-10-12,20
+Health Centre Beeston,4259640976,Ross Morris,1986-08-23,Neurology,Routine,2025-09-06,25
+Health Centre Beeston,6987128049,Lope del Quintero,1948-11-29,Haematology,Routine,2025-09-05,25
+Oakwood Surgery,7350965893,Bhavika Hora,1994-03-30,Haematology,Two Week Wait (Cancer),2025-12-25,9
+Meadow View Alwoodley Surgery,6081685144,Hemang Agarwal,1971-01-23,Haematology,Urgent,2025-11-20,14
+Beacon Health Partnership,4708510527,Aleksander Glaza,1982-03-30,Neurology,Routine,2025-12-08,12
+Health Centre Beeston,4752725274,Robert Kołsut,2025-10-19,Orthopaedic,Routine,2025-09-11,24
+Bluefield Farsley Health Centre,4170968980,Zina Pușcașu,1964-04-19,Infectious Diseases,Urgent,2025-09-29,22
+Bluefield Farsley Health Centre,4380142582,Angela Oshodi,1965-11-21,Pulmonolgy,Two Week Wait (Cancer),2026-02-05,3
+Leeds Medical Practice,6474642769,Diogo Henriques,2019-04-14,Rheumatology,Two Week Wait (Cancer),2026-01-16,6
+Beacon Health Partnership,7283052119,Meveddet Münezzer Akgündüz,1972-11-14,Orthopaedic,Two Week Wait (Cancer),2026-01-08,7
+Meadow View Alwoodley Surgery,7423212407,Achim Dochioiu,1975-02-13,Pediatrics,Routine,2025-09-07,25
+The Village Medical Centre,4652833792,Reina Clemente-Jaume,1961-12-27,Infectious Diseases,Two Week Wait (Cancer),2025-11-21,14
+The Village Medical Centre,6585641892,Uz. Erem Demir Akçay,1933-11-11,Cardiology,Routine,2025-12-26,9
+Beacon Health Partnership,4624313208,Bruno Cardoso,2003-01-15,Rheumatology,Urgent,2025-10-28,18
+Highfield Roundhay Doctors,4430242348,Mihai Manole,1984-05-08,Rheumatology,Two Week Wait (Cancer),2025-09-17,24
+Highfield Roundhay Doctors,6397765881,Ariana Martins,1973-05-19,Cardiology,Routine,2025-11-29,13
+St. Armley's Medical Group,4145323742,Rafael Soares,2006-09-02,Rheumatology,Urgent,2026-02-04,4
+Leeds Medical Practice,4225194140,Çev. Ömriye Münezzer Akçay Akgündüz,1933-03-09,Cardiology,Two Week Wait (Cancer),2026-01-25,5
+St. Armley's Medical Group,7403816773,Mrs Helen Smith,1934-02-07,Oncology,Two Week Wait (Cancer),2025-12-02,13
+Beacon Health Partnership,4609595281,Remus Popa,1948-12-28,Infectious Diseases,Urgent,2025-12-24,10
+Beacon Health Partnership,4864033226,Öğr. Nazimet Gözem Gülen,1985-02-13,Pulmonolgy,Urgent,2025-10-04,21
+The Village Medical Centre,4820102796,Urszula Małys,1947-09-11,Pediatrics,Urgent,2026-01-09,7
+The Village Medical Centre,4159041671,Gabriel Akinwale,2020-10-02,Infectious Diseases,Two Week Wait (Cancer),2026-02-01,4
+Bluefield Farsley Health Centre,4248027631,Hüsmen Şener,1948-09-18,Infectious Diseases,Urgent,2026-01-30,4
+Beacon Health Partnership,4675789684,Dorel Diaconescu,1923-08-15,Haematology,Two Week Wait (Cancer),2026-02-16,2
+Leeds Medical Practice,4776376881,Eva-Júlia Fonseca,1998-03-03,Oncology,Routine,2026-01-22,5
+Leeds Medical Practice,4436572307,Dumitra Nistor,1955-01-07,Haematology,Urgent,2025-10-24,18
+Bankside GP Partners Bramley,7601200272,Hope Abiola,1968-03-04,Rheumatology,Two Week Wait (Cancer),2026-03-03,0
+Bluefield Farsley Health Centre,7784183321,Maxi Ángel Sala,1957-11-06,Orthopaedic,Urgent,2025-09-24,23
+Highfield Roundhay Doctors,4276167299,Yrd. Doç. Neyran Semat Durdu,1979-12-25,Orthopaedic,Urgent,2026-01-27,5
+Meadow View Alwoodley Surgery,4638093418,Victoria Ekwueme,1966-06-06,Orthopaedic,Two Week Wait (Cancer),2025-12-25,9
+Leeds Medical Practice,4206094985,Iara Jesus-Pacheco,2023-01-08,Rheumatology,Routine,2025-12-29,9
+St. Armley's Medical Group,6951344183,Kuddusi Dirican Korutürk,1950-05-07,Cardiology,Two Week Wait (Cancer),2026-01-05,8
+Oakwood Surgery,4167087898,Corina Voinea,1940-07-05,Pediatrics,Urgent,2026-01-20,6
+Highfield Roundhay Doctors,6987637245,Joy Obasanjo,1960-04-02,Infectious Diseases,Urgent,2026-01-28,5
+Highfield Roundhay Doctors,4109175712,Bruno Teixeira,1976-03-10,Pediatrics,Routine,2025-11-20,14
+Bankside GP Partners Bramley,7785679169,José Mari Bonilla Jimenez,1961-12-30,Oncology,Routine,2025-12-18,10
+Bluefield Farsley Health Centre,6275730978,Osha Savant,1941-01-20,Oncology,Two Week Wait (Cancer),2025-10-17,19
+Leeds Medical Practice,7289485386,Nicoleta Mazilescu,1926-01-04,Neurology,Routine,2025-12-20,10
+The Village Medical Centre,4265616003,Ballı Ayülker Çetin İhsanoğlu,2001-10-20,Infectious Diseases,Two Week Wait (Cancer),2025-11-11,16
+Bluefield Farsley Health Centre,6097073925,Timothy Lewis,1942-05-10,Oncology,Routine,2025-10-06,21
+The Village Medical Centre,6697934492,Benjamin Adeyemi,1932-04-10,Gastroenterology,Two Week Wait (Cancer),2026-01-15,6
+Meadow View Alwoodley Surgery,4411810980,Monalisa Diaconescu,1959-08-27,Haematology,Two Week Wait (Cancer),2025-10-17,19
+Oakwood Surgery,4855584894,Doç. Tümer Bağdaş Demir,1923-07-27,Oncology,Urgent,2025-09-10,25
+Meadow View Alwoodley Surgery,4586788674,Nurmelek Rıfkıye Yorulmaz,1921-10-03,Gastroenterology,Routine,2026-02-16,2
+Meadow View Alwoodley Surgery,7113698182,Duarte Machado,1966-04-10,Cardiology,Urgent,2025-12-29,9
+Highfield Roundhay Doctors,4461862437,Garima Atwal,1920-03-10,Haematology,Urgent,2026-01-22,5
+Bluefield Farsley Health Centre,7585112904,Peace Oshodi,2014-11-17,Gastroenterology,Routine,2025-11-12,16
+Bluefield Farsley Health Centre,4330581108,Damini Madan,1936-12-04,Pediatrics,Urgent,2026-01-23,5
+Beacon Health Partnership,4966743494,Mariana Neto,1980-10-14,Rheumatology,Urgent,2025-09-18,23
+Health Centre Beeston,4209790435,Mirona Toma,1970-05-17,Oncology,Two Week Wait (Cancer),2025-09-22,23
+Beacon Health Partnership,4882574705,Merba Şensoy,1930-11-17,Infectious Diseases,Routine,2025-10-04,21
+Bankside GP Partners Bramley,4477214049,Sylwia Żelazek,1986-06-03,Cardiology,Urgent,2025-09-18,23
+Health Centre Beeston,6324257088,Mónica Candelaria Rivas Ortuño,2008-02-02,Neurology,Routine,2025-11-13,15
+Leeds Medical Practice,6853435680,Juliet Ibrahim,1929-08-25,Haematology,Two Week Wait (Cancer),2025-12-19,10
+Bankside GP Partners Bramley,4603742142,Emmanuel Ojo,1990-07-31,Gastroenterology,Two Week Wait (Cancer),2026-01-07,8
+The Village Medical Centre,4634509776,James Okafor,1969-10-28,Orthopaedic,Routine,2026-01-23,5
+The Village Medical Centre,6351443660,Alışık Dumanlı,1963-05-19,Gastroenterology,Routine,2025-11-03,17
+Leeds Medical Practice,4475950910,Charles Bobal,2009-03-03,Gastroenterology,Urgent,2025-09-30,22
+Highfield Roundhay Doctors,4121679334,Stephen Ojo,1930-12-21,Oncology,Two Week Wait (Cancer),2025-10-24,18
+Health Centre Beeston,4487270677,Eftimia Ionescu,1999-09-01,Haematology,Routine,2025-10-06,21
+Health Centre Beeston,4922108726,Risalet Çorlu,1990-01-27,Pulmonolgy,Routine,2026-01-29,4
+Leeds Medical Practice,7334845838,İlklima Ülker,2018-12-31,Haematology,Urgent,2025-12-03,13
+Leeds Medical Practice,6249543295,Sirap Türk,2007-08-06,Pulmonolgy,Urgent,2026-01-24,5
+Oakwood Surgery,7176124531,Miguel do Machado,2008-09-15,Infectious Diseases,Urgent,2026-02-10,3
+The Village Medical Centre,4350901531,Faith Eze,2010-09-20,Oncology,Routine,2025-09-11,24
+Oakwood Surgery,4026105210,James Uche,1976-08-28,Oncology,Urgent,2026-02-20,1
+Meadow View Alwoodley Surgery,6471445105,James Oshodi,2013-03-30,Neurology,Urgent,2026-02-03,4
+Leeds Medical Practice,4236195801,Hope Ibrahim,1923-04-17,Pulmonolgy,Urgent,2025-09-16,24
+Health Centre Beeston,4944054653,Salomé-Bruna Baptista,1967-04-21,Gastroenterology,Routine,2026-01-19,6
+Oakwood Surgery,4623735125,Jerzy Pyc,1945-01-21,Infectious Diseases,Urgent,2026-02-13,2
+Bluefield Farsley Health Centre,7750028803,Yashasvi Bhattacharyya,1995-01-02,Rheumatology,Urgent,2025-09-11,24
+Oakwood Surgery,4723862811,Arkadiusz Bugno,1920-04-04,Pediatrics,Two Week Wait (Cancer),2025-10-17,19
+Highfield Roundhay Doctors,4864450447,pani Anastazja Maciejuk,1923-07-09,Pulmonolgy,Urgent,2026-03-03,0
+Leeds Medical Practice,4035547727,Damien Poole,2021-06-28,Oncology,Urgent,2025-09-27,22
+St. Armley's Medical Group,6082574605,Chucho Álvarez,1960-08-30,Haematology,Urgent,2025-10-27,18
+Health Centre Beeston,4142163132,Güler Sonnur Arslan Sakarya,2000-04-10,Rheumatology,Urgent,2025-09-09,25
+Highfield Roundhay Doctors,6511147258,Cebrián Alcolea Mercader,2022-11-11,Gastroenterology,Two Week Wait (Cancer),2026-01-02,8
+Beacon Health Partnership,6284343965,Chandani Goda,1968-12-13,Oncology,Routine,2025-10-13,20
+Bluefield Farsley Health Centre,4008521046,Bakhshi Karan,1940-04-20,Rheumatology,Two Week Wait (Cancer),2025-12-10,12
+Bankside GP Partners Bramley,4714754246,Agnes Obasanjo,1976-04-02,Pulmonolgy,Urgent,2026-02-16,2
+The Village Medical Centre,4232063609,Vincent Menon,1940-01-29,Neurology,Routine,2025-12-13,11
+Highfield Roundhay Doctors,6376908276,Hami Kamar Ergül,1940-07-30,Gastroenterology,Urgent,2025-10-09,20
+Bluefield Farsley Health Centre,4112383258,Lakshmi Goda,1972-01-15,Haematology,Two Week Wait (Cancer),2026-02-01,4
+Meadow View Alwoodley Surgery,7247142340,Nuno Faria-Coelho,2018-03-30,Orthopaedic,Two Week Wait (Cancer),2025-09-25,22
+The Village Medical Centre,4211940805,Inês Martins,2012-11-19,Rheumatology,Urgent,2026-01-21,6
+St. Armley's Medical Group,6985745806,Antoni Bąbel,1965-11-17,Pulmonolgy,Routine,2026-02-22,1
+Beacon Health Partnership,4350424210,André do Monteiro,1992-10-02,Oncology,Urgent,2025-11-18,15
+Meadow View Alwoodley Surgery,6026376283,Katherine Griffiths-Gregory,1960-09-10,Rheumatology,Routine,2025-11-15,15
+Beacon Health Partnership,4243348758,Balduino Saura Manuel,1945-09-03,Cardiology,Routine,2025-12-31,9
+St. Armley's Medical Group,6323598469,Dr. Ayasun Lüfen Şafak,1989-08-10,Orthopaedic,Urgent,2026-01-06,8
+St. Armley's Medical Group,6981373084,Fatmanur Gülfari Şama İnönü,2019-02-11,Neurology,Routine,2026-01-20,6
+Meadow View Alwoodley Surgery,6959832055,Mateusz Zybura,1952-09-12,Infectious Diseases,Urgent,2026-02-16,2
+The Village Medical Centre,7929385094,Ariana Aanei,1937-10-15,Oncology,Urgent,2026-02-08,3
+Highfield Roundhay Doctors,7648952262,Narcisa Alexandra Solera Neira,1940-10-24,Gastroenterology,Two Week Wait (Cancer),2026-02-14,2
+Beacon Health Partnership,4404901607,Danielle Lee-Chapman,1928-08-25,Rheumatology,Two Week Wait (Cancer),2026-02-19,1
+Health Centre Beeston,6001530483,pani Roksana Zdobylak,1936-01-19,Cardiology,Routine,2025-12-23,10
+Health Centre Beeston,4827492409,André Santos,1984-10-19,Pediatrics,Urgent,2026-01-30,4
+Bluefield Farsley Health Centre,4974038672,Leon Dziurla,2001-03-22,Haematology,Urgent,2026-02-04,4
+Meadow View Alwoodley Surgery,4507995280,Grace Oshodi,1934-02-06,Cardiology,Routine,2025-09-28,22
+The Village Medical Centre,6737363652,Julia James,1930-12-29,Cardiology,Two Week Wait (Cancer),2025-12-20,10
+Bluefield Farsley Health Centre,4460661543,Çev. Evrimer Yargı Yıldırım,1988-04-28,Pediatrics,Routine,2025-09-14,24
+Meadow View Alwoodley Surgery,4818961981,Valero Santiago Gálvez Hernández,1940-01-30,Neurology,Urgent,2026-01-16,6
+Bankside GP Partners Bramley,4619026913,Mr Colin Lee,1993-06-13,Rheumatology,Routine,2025-09-06,25
+Meadow View Alwoodley Surgery,7840006507,Dr. Koşukhan Karadeniz,2000-07-14,Haematology,Routine,2025-10-15,20
+Bankside GP Partners Bramley,4358146511,Haralambie Stancu,1990-09-15,Pediatrics,Urgent,2026-03-03,0
+Leeds Medical Practice,6307143045,Denis Dobre,2018-04-22,Orthopaedic,Two Week Wait (Cancer),2026-02-17,2
+Bluefield Farsley Health Centre,6134585084,Mr Joe Roberts,1941-05-15,Infectious Diseases,Routine,2026-02-13,2
+Bluefield Farsley Health Centre,4932848455,Mr Patrick Clarke,2026-02-01,Orthopaedic,Urgent,2026-01-08,7
+Highfield Roundhay Doctors,4395303862,Manthan Chakrabarti,1973-08-10,Gastroenterology,Urgent,2026-02-11,3
+Beacon Health Partnership,6276801631,André Baptista-Garcia,1930-08-19,Haematology,Urgent,2025-11-02,17
+Meadow View Alwoodley Surgery,4431197990,Celestina Gual Alba,2007-11-13,Neurology,Urgent,2025-09-11,24
+The Village Medical Centre,4109147859,Seha İlmafer Çamurcuoğlu,1923-05-03,Cardiology,Routine,2026-01-02,8
+Meadow View Alwoodley Surgery,7217425115,Robert Kultys,2020-10-27,Oncology,Two Week Wait (Cancer),2026-02-08,3
+Beacon Health Partnership,7478629180,Vâlâ Seda Ertaş Durmuş,1985-07-26,Pulmonolgy,Two Week Wait (Cancer),2025-09-13,24
+Bankside GP Partners Bramley,7659649035,Frado Baria,1923-06-16,Oncology,Two Week Wait (Cancer),2025-10-20,19
+The Village Medical Centre,4101451265,Luana Voinea,2001-11-02,Gastroenterology,Urgent,2026-01-02,8
+Oakwood Surgery,4597248234,pani Karina Ciesielczyk,1941-11-27,Cardiology,Routine,2025-10-17,19
+Meadow View Alwoodley Surgery,7732164431,Joshua Allen,1935-10-02,Rheumatology,Urgent,2025-11-24,14
+The Village Medical Centre,6919497913,Andrian Popescu,1938-06-15,Oncology,Urgent,2025-11-20,14
+Oakwood Surgery,7059761896,Alex Metcalfe,1947-04-16,Cardiology,Two Week Wait (Cancer),2026-03-02,0
+Beacon Health Partnership,4618080957,Bradley Owen,2021-06-21,Rheumatology,Urgent,2026-01-24,5
+Beacon Health Partnership,4749914258,Claire Faulkner,1992-08-19,Orthopaedic,Urgent,2025-11-01,17
+Health Centre Beeston,6031211661,Speranța Stoica,1998-11-25,Neurology,Routine,2026-01-05,8
+Health Centre Beeston,6472163618,Mrs Leanne Thomson,2008-07-31,Oncology,Routine,2025-09-07,25
+Health Centre Beeston,7359464412,Traian Niță,2003-08-25,Rheumatology,Two Week Wait (Cancer),2026-01-04,8
+Beacon Health Partnership,6339351115,Süner Nezize Arsoy Soylu,1994-08-04,Pulmonolgy,Urgent,2025-10-08,21
+Oakwood Surgery,7733810868,Noemi Tudor,1937-09-24,Oncology,Urgent,2025-10-04,21
+Bluefield Farsley Health Centre,4812349222,Rohan Pall,1997-08-02,Haematology,Two Week Wait (Cancer),2026-01-13,7
+Meadow View Alwoodley Surgery,7574412065,Uz. Ayülker Sezen Zengin,1955-01-18,Cardiology,Two Week Wait (Cancer),2025-09-13,24
+Health Centre Beeston,6387346681,Mark Akinwale,1977-05-24,Pediatrics,Two Week Wait (Cancer),2025-09-09,25
+Meadow View Alwoodley Surgery,6359437074,Carlos Assunção,1963-08-22,Haematology,Two Week Wait (Cancer),2025-11-10,16
+Beacon Health Partnership,4219375937,Nechifor Albu,1941-10-04,Pediatrics,Urgent,2025-11-27,13
+Leeds Medical Practice,6483492510,Ishani Saha,2012-07-23,Haematology,Routine,2025-11-05,17
+The Village Medical Centre,4214352564,Bruno Kurz,1934-04-26,Orthopaedic,Routine,2025-11-07,16
+Highfield Roundhay Doctors,7028873250,Mary Olawale,1990-04-22,Pediatrics,Urgent,2025-11-04,17
+Oakwood Surgery,7378276464,Arş. Gör. Âlemşah Süleyla Bilge Manço,2023-01-20,Orthopaedic,Urgent,2025-12-11,11
+Meadow View Alwoodley Surgery,4548601996,Ruth Balogun,1930-09-07,Haematology,Urgent,2025-12-22,10
+Highfield Roundhay Doctors,4481681640,Tina James,1938-02-24,Neurology,Routine,2025-10-18,19
+Health Centre Beeston,7129668601,Andrew Olawale,1992-10-22,Haematology,Two Week Wait (Cancer),2025-09-05,25
+Bankside GP Partners Bramley,4259879405,Aglaia Gheorghiu,2023-03-06,Gastroenterology,Urgent,2025-12-23,10
+Bluefield Farsley Health Centre,4630912088,Franciszek Kożuszek,1941-01-02,Rheumatology,Urgent,2025-10-19,19
+Oakwood Surgery,7662747565,Hayley Hayes-Davey,1987-11-17,Oncology,Routine,2026-02-19,1
+Health Centre Beeston,4457822701,Florencio Valenciano Mateos,1939-07-22,Oncology,Two Week Wait (Cancer),2026-02-10,3
+Highfield Roundhay Doctors,4783153302,Falguni Padmanabhan,2020-02-26,Gastroenterology,Routine,2026-02-07,3
+Meadow View Alwoodley Surgery,4271469807,Hayali İhsanoğlu,2005-02-20,Pediatrics,Routine,2025-10-04,21
+Leeds Medical Practice,4913085778,Adrianna Kobos,1929-05-01,Pediatrics,Two Week Wait (Cancer),2025-12-06,12
+St. Armley's Medical Group,4321877105,Eusebia del Bayo,1986-04-23,Orthopaedic,Two Week Wait (Cancer),2026-01-04,8
+The Village Medical Centre,4397317070,Leon Cop,1923-12-17,Pulmonolgy,Urgent,2025-12-15,11
+Oakwood Surgery,4811598059,Carlota Bou Miró,1952-09-21,Rheumatology,Routine,2026-01-03,8
+The Village Medical Centre,6049044198,Comfort Nnamani,2017-05-03,Pulmonolgy,Urgent,2025-12-26,9
+Meadow View Alwoodley Surgery,6911060583,Răzvan Tudor,1975-05-09,Rheumatology,Urgent,2025-12-31,9
+Health Centre Beeston,7430313124,Gustavo Alves,1974-12-02,Gastroenterology,Two Week Wait (Cancer),2025-11-17,15
+Highfield Roundhay Doctors,7718827313,Paul Uche,1957-07-06,Infectious Diseases,Two Week Wait (Cancer),2026-01-05,8
+Leeds Medical Practice,4220888446,Uraltay Öcalan,1970-03-05,Oncology,Urgent,2025-11-14,15
+Beacon Health Partnership,4967225381,Brinda Vyas,1945-10-18,Neurology,Urgent,2026-02-20,1
+Health Centre Beeston,7249957376,Dr. Remazan Nurullah Zorlu,1978-03-07,Neurology,Routine,2025-09-16,24
+Highfield Roundhay Doctors,6204442473,Relu Preda,1950-03-11,Pediatrics,Two Week Wait (Cancer),2026-03-03,0
+Highfield Roundhay Doctors,6813130390,pani Marianna Wawrzyńczyk,2017-08-16,Infectious Diseases,Two Week Wait (Cancer),2025-09-23,23
+Meadow View Alwoodley Surgery,6019701832,Stelian Oprea,2018-03-26,Oncology,Urgent,2026-03-02,0
+Beacon Health Partnership,4154977040,Nicodim Marin,1933-02-13,Pulmonolgy,Urgent,2026-02-04,4
+St. Armley's Medical Group,4657332317,Arş. Gör. Temime Soylu Zengin,1932-11-17,Haematology,Urgent,2026-02-28,0
+The Village Medical Centre,4597663576,Mark Obasanjo,1943-12-26,Rheumatology,Urgent,2026-02-10,3
+Beacon Health Partnership,4385410755,Juan Antonio Andrade-Acuña,2019-01-23,Rheumatology,Routine,2026-01-23,5
+Health Centre Beeston,4758523304,Erica Lopes,1986-04-02,Infectious Diseases,Two Week Wait (Cancer),2025-12-13,11
+Bluefield Farsley Health Centre,4667830662,pan Fryderyk Nocek,1969-07-22,Haematology,Two Week Wait (Cancer),2025-09-05,25
+Beacon Health Partnership,4231960208,Bartek Wawrzkiewicz,1984-06-04,Rheumatology,Routine,2025-10-20,19
+Oakwood Surgery,4214687779,pan Fabian Ośka,1981-02-25,Haematology,Two Week Wait (Cancer),2025-12-03,13
+Beacon Health Partnership,6289784994,Francisca do Correia,1959-12-24,Cardiology,Routine,2025-09-19,23
+Highfield Roundhay Doctors,4804691669,Emma Henriques-Matos,1931-04-24,Rheumatology,Urgent,2025-10-13,20
+Highfield Roundhay Doctors,4243157162,Karataş Aksu,1928-01-01,Pediatrics,Urgent,2026-02-24,1
+Meadow View Alwoodley Surgery,4266450222,Loredana Tomescu,2008-04-15,Rheumatology,Routine,2025-12-23,10
+Leeds Medical Practice,6191913656,Edelmiro Goñi-Olmo,1988-10-22,Infectious Diseases,Urgent,2026-01-12,7
+The Village Medical Centre,4545840736,Eryk Lenc,1940-10-09,Gastroenterology,Routine,2025-10-09,20
+St. Armley's Medical Group,7643076901,Tadeusz Szykuła,1958-03-14,Infectious Diseases,Urgent,2025-09-21,23
+Beacon Health Partnership,7931181581,Isabel Santos,2012-02-13,Orthopaedic,Urgent,2025-09-07,25
+St. Armley's Medical Group,4229383363,Natalio Robledo Oliveras,1949-04-28,Infectious Diseases,Urgent,2026-01-07,8
+Meadow View Alwoodley Surgery,4418154388,Arkadiusz Drewa,1959-05-24,Cardiology,Urgent,2026-02-10,3
+Oakwood Surgery,4540865528,Ms Stacey Phillips,1995-01-03,Haematology,Two Week Wait (Cancer),2025-12-05,12
+Oakwood Surgery,6166123035,Sarah Ekwueme,1923-01-29,Neurology,Two Week Wait (Cancer),2025-11-27,13
+Oakwood Surgery,7434945036,Nitesh Bava,2015-01-23,Infectious Diseases,Routine,2025-10-19,19
+Beacon Health Partnership,6170962429,Kamil Tylec,1948-04-20,Haematology,Two Week Wait (Cancer),2026-02-04,4
+The Village Medical Centre,4824993946,Dida Dobre,1989-07-07,Oncology,Routine,2025-10-06,21
+Bluefield Farsley Health Centre,4593738369,Paul Oyekan,1925-01-13,Pulmonolgy,Urgent,2026-01-29,4
+Bankside GP Partners Bramley,4561064249,Tejas Banerjee,1923-06-09,Pulmonolgy,Urgent,2025-11-30,13
+Bluefield Farsley Health Centre,7743820351,Maks Osial,2021-03-30,Pulmonolgy,Routine,2025-12-11,11
+Bluefield Farsley Health Centre,6636913894,Sian Robson,1920-08-26,Haematology,Two Week Wait (Cancer),2026-01-30,4
+Oakwood Surgery,6455959027,Abraham Cáceres Uriarte,1953-09-19,Orthopaedic,Two Week Wait (Cancer),2025-09-08,25
+The Village Medical Centre,6701822282,Galo Castell-Pla,1931-10-19,Gastroenterology,Urgent,2026-01-28,5
+Oakwood Surgery,6957086291,Madalena Amorim,2015-05-24,Pediatrics,Urgent,2025-09-07,25
+Meadow View Alwoodley Surgery,6484890447,Amber Briggs,1946-06-16,Orthopaedic,Two Week Wait (Cancer),2025-10-25,18
+Beacon Health Partnership,6295643507,pan Kajetan Tadeusiak,1942-07-25,Neurology,Routine,2025-12-31,9
+Beacon Health Partnership,7353306386,Deborah Perry,1968-04-01,Pulmonolgy,Two Week Wait (Cancer),2026-02-02,4
+Bluefield Farsley Health Centre,4824319854,Oskar Majzner,1944-03-19,Pediatrics,Urgent,2026-01-01,8
+Bluefield Farsley Health Centre,4009024763,Inês Simões,1921-02-03,Gastroenterology,Two Week Wait (Cancer),2025-09-18,23
+Highfield Roundhay Doctors,4280334641,Genoveva Corral Abad,2004-01-01,Pediatrics,Routine,2025-11-25,14
+Leeds Medical Practice,7823405067,Mr Bernard Brown,1970-08-15,Orthopaedic,Two Week Wait (Cancer),2026-02-10,3
+Bluefield Farsley Health Centre,6765750223,Olivia Cooke-Bell,1933-05-17,Pulmonolgy,Two Week Wait (Cancer),2025-10-22,19
+Bluefield Farsley Health Centre,4980402135,Daria Oprea,1964-11-12,Pediatrics,Urgent,2025-11-19,15
+St. Armley's Medical Group,4209296937,Ruth Uche,1947-03-17,Oncology,Two Week Wait (Cancer),2025-12-18,10
+Oakwood Surgery,6590635331,Xiti Sibal,1935-11-27,Haematology,Routine,2025-10-10,20
+Beacon Health Partnership,4292071535,Oliver Stewart-Anderson,2006-01-07,Orthopaedic,Two Week Wait (Cancer),2025-12-31,9
+The Village Medical Centre,7090151557,Samuel Abiola,2012-09-17,Pulmonolgy,Two Week Wait (Cancer),2026-01-15,6
+Bankside GP Partners Bramley,7843646299,Stanisław Ciuła,1967-12-06,Gastroenterology,Routine,2026-01-05,8
+The Village Medical Centre,6863776693,Joy Ojo,1945-11-28,Cardiology,Two Week Wait (Cancer),2026-02-16,2
+Oakwood Surgery,4481655712,Ronith Zachariah,1951-07-14,Gastroenterology,Routine,2026-02-18,2
+Highfield Roundhay Doctors,6438708356,Amanda Webster,1981-11-28,Oncology,Urgent,2025-10-09,20
+St. Armley's Medical Group,7045792115,África Madrigal Porcel,1950-12-17,Oncology,Urgent,2025-09-13,24
+The Village Medical Centre,6248553904,Mr Marcus Sharpe,2025-02-25,Gastroenterology,Routine,2025-11-30,13
+Bankside GP Partners Bramley,4138946063,Miss Diane Martin,1965-06-28,Pulmonolgy,Routine,2026-02-01,4
+Meadow View Alwoodley Surgery,4375338644,Yashasvi Narain,2022-11-12,Pulmonolgy,Urgent,2025-11-30,13
+Bankside GP Partners Bramley,4294545062,Tanveer Palla,1986-09-09,Oncology,Routine,2025-11-01,17
+St. Armley's Medical Group,7098945943,Av. Nuretdin Selvi Arslan,1970-02-11,Pulmonolgy,Urgent,2026-01-23,5
+St. Armley's Medical Group,7740412422,Blessing Uche,1967-04-29,Gastroenterology,Urgent,2026-01-05,8
+Beacon Health Partnership,4801896685,Varenya Trivedi,2023-06-24,Rheumatology,Routine,2025-12-20,10
+The Village Medical Centre,7312858333,Miguel Sá,1975-12-01,Orthopaedic,Two Week Wait (Cancer),2026-01-07,8
+Bankside GP Partners Bramley,7397179789,Uz. Güçyeter Cavit Dumanlı,2016-02-09,Infectious Diseases,Two Week Wait (Cancer),2025-12-03,13
+Oakwood Surgery,6644465145,Ridhi Palan,2014-05-15,Haematology,Routine,2025-10-30,17
+Beacon Health Partnership,7792379957,Dr Billy Edwards,1955-01-30,Oncology,Two Week Wait (Cancer),2025-12-15,11
+St. Armley's Medical Group,7429701701,Daniel Mitchell,1960-08-18,Pediatrics,Two Week Wait (Cancer),2025-12-06,12
+St. Armley's Medical Group,7324739040,Hiral Chandra,1960-02-05,Cardiology,Two Week Wait (Cancer),2025-11-05,17
+St. Armley's Medical Group,6143174385,Özdal Aslan,2016-04-12,Pediatrics,Two Week Wait (Cancer),2025-10-17,19
+Health Centre Beeston,4451627699,Lindsey Hart-Brennan,1924-12-14,Oncology,Two Week Wait (Cancer),2026-02-14,2
+Oakwood Surgery,4342785331,Chakradhar Karnik,1964-02-13,Cardiology,Routine,2025-12-13,11
+Beacon Health Partnership,4112608837,Yaiza Gibert Gallart,1961-10-06,Pulmonolgy,Urgent,2025-10-27,18
+Highfield Roundhay Doctors,4205922639,Sarah Oshodi,1929-10-08,Rheumatology,Routine,2025-12-10,12
+Oakwood Surgery,7519150771,Ileana Mazilescu,1926-12-28,Rheumatology,Routine,2025-11-26,14
+Oakwood Surgery,4144071049,Esther Obasanjo,1991-04-16,Infectious Diseases,Two Week Wait (Cancer),2025-12-13,11
+Leeds Medical Practice,6956104873,pani Krystyna Pronobis,2011-03-03,Neurology,Urgent,2025-10-21,19
+Oakwood Surgery,4800052610,Vincent Baker-Pratt,1986-11-14,Pediatrics,Urgent,2025-11-07,16
+Health Centre Beeston,4524142460,Joel Chapman-North,1965-12-11,Gastroenterology,Two Week Wait (Cancer),2025-10-11,20
+Oakwood Surgery,4536442596,Haralambie Marin,1943-10-13,Orthopaedic,Urgent,2025-09-06,25
+Beacon Health Partnership,4322089461,Vlădelina Diaconu,1999-02-13,Infectious Diseases,Routine,2025-12-07,12
+St. Armley's Medical Group,4120457567,Ms Louise Gould,1951-12-04,Haematology,Two Week Wait (Cancer),2025-10-15,20
+Health Centre Beeston,4946893296,Luke Sodhi,1998-08-05,Cardiology,Two Week Wait (Cancer),2025-12-06,12
+Bluefield Farsley Health Centre,4182794702,Herminia Luís-Bonet,1945-12-06,Cardiology,Two Week Wait (Cancer),2025-12-08,12
+Bankside GP Partners Bramley,6320730404,Hubert Saczuk,2005-02-18,Oncology,Routine,2025-11-14,15
+Health Centre Beeston,4630165975,Isidoro Ponce Viana,2010-02-19,Pulmonolgy,Two Week Wait (Cancer),2025-09-29,22
+St. Armley's Medical Group,4531782690,James Nnamani,2011-07-28,Rheumatology,Two Week Wait (Cancer),2025-09-30,22
+St. Armley's Medical Group,4017333915,Tony Foster,2022-10-24,Gastroenterology,Urgent,2025-09-28,22
+Highfield Roundhay Doctors,4734622825,Mateusz Drozdowicz,2022-08-24,Pulmonolgy,Two Week Wait (Cancer),2025-12-12,11
+St. Armley's Medical Group,4965479971,Linda Barrett,1941-06-07,Neurology,Urgent,2025-12-21,10
+Bluefield Farsley Health Centre,6487500321,Declan Patel,2024-06-17,Oncology,Routine,2025-10-12,20
+Meadow View Alwoodley Surgery,7767642844,Deborah Ogunleye,1967-12-29,Pediatrics,Urgent,2025-12-14,11
+Meadow View Alwoodley Surgery,6655388546,Rosa María Marí Nuñez,1994-08-01,Orthopaedic,Routine,2025-12-26,9
+Beacon Health Partnership,7578074121,María Gonzalo Bayo,2019-11-28,Pulmonolgy,Urgent,2025-11-01,17
+Oakwood Surgery,4899994583,Paweł Kucewicz,1983-04-24,Pulmonolgy,Routine,2025-10-01,22
+St. Armley's Medical Group,4749723320,Tincuța Ardelean,1986-01-02,Orthopaedic,Routine,2025-10-25,18
+Meadow View Alwoodley Surgery,7684335421,Aniela Uziębło,1968-07-18,Infectious Diseases,Two Week Wait (Cancer),2025-12-27,9
+Meadow View Alwoodley Surgery,4374978135,Okanay Apaydın Zengin Bilir,1966-03-16,Cardiology,Routine,2025-10-24,18
+St. Armley's Medical Group,4211006541,Tristan Acharya,2010-03-26,Oncology,Routine,2026-03-03,0
+Highfield Roundhay Doctors,4467936327,Linda Smith,1983-07-21,Orthopaedic,Two Week Wait (Cancer),2026-02-16,2
+Highfield Roundhay Doctors,4708527160,Alícia Vicente,1979-05-15,Neurology,Urgent,2025-10-06,21
+Leeds Medical Practice,6754067519,Eva Vaz,1961-08-12,Rheumatology,Two Week Wait (Cancer),2026-02-07,3
+Beacon Health Partnership,7336674933,Behiza Dursadiye Öcalan,1928-03-12,Pediatrics,Urgent,2025-11-06,16
+Meadow View Alwoodley Surgery,7299496712,Xiti Kaul,1969-02-20,Pulmonolgy,Two Week Wait (Cancer),2026-02-16,2
+Bluefield Farsley Health Centre,6803871274,Beriye Deniz Alemdar,1936-07-30,Neurology,Urgent,2025-11-14,15
+Meadow View Alwoodley Surgery,4557058264,Clara Marques,1923-02-16,Rheumatology,Two Week Wait (Cancer),2026-02-22,1
+Highfield Roundhay Doctors,4870014297,João Araújo,1994-06-05,Infectious Diseases,Routine,2025-10-30,17
+Highfield Roundhay Doctors,4362446540,Kyle Williams,1959-11-04,Rheumatology,Routine,2026-01-08,7
+Highfield Roundhay Doctors,6279547108,Marian Singh,1998-04-23,Orthopaedic,Two Week Wait (Cancer),2025-12-07,12
+St. Armley's Medical Group,7225461656,Kornel Wandzel,1994-06-21,Rheumatology,Two Week Wait (Cancer),2025-12-06,12
+The Village Medical Centre,4786011150,Ângela Sá,1973-05-23,Rheumatology,Routine,2025-12-17,11
+Highfield Roundhay Doctors,4806171212,Yrd. Doç. Savni Bilir,2001-06-26,Cardiology,Urgent,2025-10-20,19
+Beacon Health Partnership,4590824868,Peter Panchal,1979-10-05,Rheumatology,Routine,2025-09-07,25
+Bankside GP Partners Bramley,7114536216,Deborah Oshodi,2022-02-01,Cardiology,Two Week Wait (Cancer),2025-11-24,14
+The Village Medical Centre,7622318493,pani Malwina Iwańczyk,1929-01-17,Rheumatology,Routine,2025-11-02,17
+Leeds Medical Practice,6457752594,Xavier do Machado,2013-11-20,Infectious Diseases,Urgent,2025-09-13,24
