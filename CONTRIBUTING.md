@@ -152,4 +152,42 @@ Changes affecting clinical logic should include corresponding tests to ensure be
 If you discover a bug, please include:
 
 - A clear description of the issue
--
+- Steps to reproduce the problem
+- Expected behaviour
+- Actual behaviour
+- Error messages or screenshots where relevant
+- Python version and operating system details
+
+Providing as much information as possible helps reproduce and resolve issues more quickly.
+
+## 💡 Feature Requests
+
+Suggestions for improvements are always welcome.
+
+When submitting a feature request, please include:
+
+- The problem the feature solves
+- Why the feature would be useful
+- A brief description of the proposed solution
+- Any alternative approaches that were considered
+
+Please try to keep suggestions aligned with the project's goal of demonstrating healthcare analytics, FastAPI development, data engineering practices, and dashboard visualisation.
+
+## 🧹 Code Style
+
+This project aims to keep the codebase clean, readable, and beginner friendly.
+
+General guidelines:
+
+- Write clear and concise code
+- Prefer descriptive variable and function names
+- Keep functions focused on a single responsibility
+- Include tests where appropriate
+- Use type hints where helpful
+- Keep comments and docstrings concise
+
+## 🙏 Thank You
+
+Thank you for taking the time to contribute.
+
+Whether you improve documentation, fix a bug, add tests, or suggest a new feature, every contribution helps make the project better and provides valuable learning opportunities for the broader Python community.
