@@ -3,13 +3,13 @@
     Provides branding on the left and a link to raw JSON data on the right.
 -->
 
-<nav class="bg-clinical-blue p-4 shadow-md mb-8">
+<nav class="navbar">
     <div class="container mx-auto flex justify-between items-center">
 
         <!-- Left side: Dashboard title / home link -->
         <div class="flex items-center space-x-4">
             <a href="/" 
-               class="text-lg font-bold text-gray-800 hover:text-gray-600 transition-colors tracking-tight">
+               class="navbar-brand">
                 NHS Performance Dashboard
             </a>
         </div>
@@ -17,15 +17,13 @@
         <!-- Right side: Link to raw JSON API endpoint -->
         <div class="flex items-center space-x-4">
             <a href="/api/patients" target="_blank"
-               class="text-xs bg-black/5 hover:bg-black/10 border border-black/10 text-gray-800 
-                      px-3 py-1.5 rounded-md transition-all font-semibold">
+               class="navbar-button">
                Raw Data Access (JSON)
             </a>
 
             <!-- Theme toggle button -->
             <button id="themeToggle"
-                    class="text-xs bg-black/5 hover:bg-black/10 border-black/10 text-gray-800
-							px-3 py-1.5 rounded-md transition-all font-semibold">
+                    class="navbar-button">
                 Toggle Theme
             </button>
         </div>

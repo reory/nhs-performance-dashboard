@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from fastapi.staticfiles import StaticFiles
 from loguru import logger
 
 from app.routers import api, dashboard
@@ -10,8 +11,8 @@ app = FastAPI(title="NHS Performance Dashboard")
 
 logger.info("Starting NHS Performance Dashboard API")
 
-# not used. commented out.
-# app.mount("/static", StaticFiles(directory="app/static"), name="static")
+
+app.mount("/static", StaticFiles(directory="app/static"), name="static")
 
 # Connect to the hospital routers folder
 logger.info("Including API and dashboard routers")

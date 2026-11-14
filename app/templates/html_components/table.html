@@ -4,16 +4,16 @@
     with conditional colouring for priority and 18‑week breach status.
 -->
 
-<div class="dashboard-card rounded-xl shadow-sm border overflow-hidden">
+<div class="dashboard-card">
 
     <!-- Header -->
-    <div class="p-6 border-b flex justify-between items-center">
+    <div class="table-header">
 
         <h2 class="text-xl font-bold">
             Current Waiting List
         </h2>
 
-        <span class="px-3 py-1 bg-clinical-blue/20 text-clinical-blue rounded-full text-sm font-medium">
+        <span class="patient-counter">
             Total Patients:
             <span id="tablePatientCount">{{ patients|length }}</span>
         </span>
@@ -26,7 +26,7 @@
         <div class="flex justify-between items-center">
 
             <div>
-                <h3 class="font-bold text-red-300">
+                <h3 class="rtt-alert-heading">
                     RTT Performance Alert
                 </h3>
 
@@ -49,15 +49,15 @@
 
                 <tr class="dashboard-surface uppercase text-xs font-semibold">
 
-                    <th class="px-6 py-4">GP Practice</th>
-                    <th class="px-6 py-4">NHS ID</th>
-                    <th class="px-6 py-4">Patient Name</th>
-                    <th class="px-6 py-4">D.O.B</th>
-                    <th class="px-6 py-4">Specialty</th>
-                    <th class="px-6 py-4">Priority</th>
-                    <th class="px-6 py-4">Ref. Date</th>
-                    <th class="px-6 py-4 text-center">Weeks Waiting</th>
-                    <th class="px-6 py-4 text-center">RTT Status</th>
+                    <th class="table-cell">GP Practice</th>
+                    <th class="table-cell">NHS ID</th>
+                    <th class="table-cell">Patient Name</th>
+                    <th class="table-cell">D.O.B</th>
+                    <th class="table-cell">Specialty</th>
+                    <th class="table-cell">Priority</th>
+                    <th class="table-cell">Ref. Date</th>
+                    <th class="table-cell text-center">Weeks Waiting</th>
+                    <th class="table-cell text-center">RTT Status</th>
 
                 </tr>
 
@@ -70,29 +70,30 @@
 
                 <tr class="table-row-hover transition-colors">
 
-                    <td class="px-6 py-4 text-sm font-medium">
+                    <td class="table-cell">
                         {{ patient.gp_practice }}
                     </td>
 
-                    <td class="px-6 py-4 text-sm font-mono text-gray-500 dark:text-gray-400">
+                    <td class="table-cell">
                         {{ patient.nhs_id }}
                     </td>
 
-                    <td class="px-6 py-4 text-sm font-semibold">
+                    <td class="table-cell">
                         {{ patient.name }}
                     </td>
 
-                    <td class="px-6 py-4 text-sm">
+                    <td class="table-cell">
                         {{ patient.dob }}
                     </td>
 
-                    <td class="px-6 py-4 text-sm text-gray-500 dark:text-gray-400">
+                    <td class="table-cell">
                         {{ patient.specialty }}
                     </td>
 
-                    <td class="px-6 py-4">
+                    <td class="table-cell">
 
-                        <span class="px-2 py-1 rounded text-xs font-bold">
+                        <span class="
+                            priority-badge
                             {% if patient.priority == 'Urgent' %}
                                 priority-urgent
                             {% elif patient.priority == 'Two Week Wait (Cancer)' %}
@@ -100,17 +101,18 @@
                             {% else %}
                                 priority-routine
                             {% endif %}
+                        ">
 
                             {{ patient.priority }}
                         </span>
                     </td>
 
-                    <td class="px-6 py-4 text-sm text-gray-500 dark:text-gray-400">
+                    <td class="table-cell">
                         {{ patient.referral_date }}
                     </td>
 
                     <!-- Weeks Waiting -->
-                    <td class="px-6 py-4 text-center">
+                    <td class="table-cell">
 
                         <span class="text-sm font-bold
                             {% if patient.wait_weeks >= 18 %}
@@ -134,7 +136,7 @@
                     </td>
 
                     <!-- RTT Status -->
-                    <td class="px-6 py-4 text-center">
+                    <td class="table-cell">
 
                         {% if patient.wait_weeks >= 22 %}
 
@@ -144,13 +146,13 @@
 
                         {% elif patient.wait_weeks >= 18 %}
 
-                            <span class="rrt-badge rtt-breach">
+                            <span class="rtt-badge rtt-breach">
                                 RTT Breach
                             </span>
 
                         {% elif patient.wait_weeks >= 16 %}
 
-                            <span class="rrt-badge rtt-warning">
+                            <span class="rtt-badge rtt-warning">
                                 Approaching
                             </span>
 
