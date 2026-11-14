@@ -80,6 +80,12 @@ It also provided an opportunity to work with DuckDB, FastAPI, Pydantic validatio
 - Live search filters patient records by name, NHS ID, or specialty.
 ![NHS Performance Dashboard](screenshots/4.png)
 
+- Enhanced RTT monitoring featuring RTT breach KPIs, critical 22+ week alerts, operational warning banners, and colour-coded patient status indicators.
+![NHS Performance Dashboard](screenshots/5.png)
+
+- RTT status indicators help operational teams quickly identify patients approaching breach thresholds and prioritise intervention before critical delays occur.
+![NHS Performance Dashboard](screenshots/6.png)
+
 </details>
 
 ---
@@ -218,7 +224,7 @@ uv run pytest
 <details>
   <summary>click here</summary>
 
-- [ ] Enhanced RTT Monitoring
+- [x] Enhanced RTT Monitoring
 Highlight patients approaching or exceeding the 18-week RTT target using additional visual indicators and status badges.
 
 - [ ] Specialty Filtering

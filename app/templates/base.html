@@ -1,11 +1,17 @@
 <!DOCTYPE html>
 <html lang="en" class="dark">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% block title %}NHS Performance Dashboard{% endblock %}</title>
 
-    <!-- Tailwind CDN with darkMode: 'class' -->
+    <title>
+        {% block title %}
+            NHS Performance Dashboard
+        {% endblock %}
+    </title>
+
+    <!-- Tailwind CDN -->
     <script>
         tailwind = {
             config: {
@@ -13,19 +19,46 @@
             }
         }
     </script>
+
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
-    <!-- Theme variables (light + dark) -->
+    <!-- Theme System -->
     <style>
         :root {
-            --bg: #ffffff;
+            /* Light Theme */
+            --bg: #f8fafc;
             --text: #1e293b;
+
+            --text-primary: #1e293b;
+            --text-secondary: #64748b;
+            --text-muted: #94a3b8;
+
+            --card-bg: #ffffff;
+            --card-border: #cbd5e1;
+
+            --surface-bg: #f1f5f9;
+            --surface-border: #cbd5e1;
         }
 
         .dark {
+            /* Dark Theme */
             --bg: #0f172a;
             --text: #e2e8f0;
+
+            --text-primary: #e2e8f0;
+            --text-secondary: #94a3b8;
+            --text-muted: #64748b;
+
+            --card-bg: #1e293b;
+            --card-border: #334155;
+
+            --surface-bg: #111827;
+            --surface-border: #374151;
+        }
+
+        html {
+            scroll-behavior: smooth;
         }
 
         body {
@@ -33,26 +66,141 @@
             color: var(--text);
         }
 
-        .bg-clinical-blue { background-color: #97d4f5; }
-        .text-clinical-blue { color: #075985; }
-        html { scroll-behavior: smooth; }
-    </style>
+        /* NHS Accent Colours */
+        .bg-clinical-blue {
+            background-color: #97d4f5;
+        }
 
-    <style>
-        /* Chart container fix */
+        .text-clinical-blue {
+            color: #075985;
+        }
+
+        /* Shared Dashboard Components */
+        .dashboard-card {
+            background-color: var(--card-bg);
+            border-color: var(--card-border);
+        }
+
+        .dashboard-surface {
+            background-color: var(--surface-bg);
+            border-color: var(--surface-border);
+        }
+
+        .dashboard-text {
+            color: var(--text);
+        }
+
+        /* KPI Components */
+        .metric-card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--card-border);
+            color: var(--text-primary);
+        }
+
+        .metric-label {
+            color: var(--text-muted);
+        }
+
+        .metric-subtext {
+            color: var(--text-secondary);
+        }
+
+        /* Charts */
         canvas {
             background-color: transparent !important;
         }
 
         .chart-container {
-            background-color: var(--bg);
+            background-color: var(--card-bg);
             border-radius: 0.5rem;
             padding: 1rem;
         }
 
-        /* Ensure charts respect theme colours */
         .dark canvas {
             color: var(--text);
+        }
+
+        /* Priority Labels */
+        .priority-routine {
+            color: #3b82f6;
+        font-weight: 700;
+        }
+
+        .priority-urgent {
+            color: #f59e0b;
+            font-weight: 700;
+        }
+
+        .priority-cancer {
+            color: #ef4444;
+            font-weight: 700;
+        }
+
+        /* RTT Badges */
+        .rtt-badge {
+            display: inline-flex;
+            align-items: center;    
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            white-space: nowrap;
+        }
+
+        .rtt-alert {
+            background-color: #fef2f2;
+            border: 1px solid #f87171;
+        }
+        
+        .rtt-alert-title {
+            color: #b91c1c;
+        }
+
+        .dark .rtt-alert {
+            background-color: rgba(69, 10, 10, 0.3);
+            border-color: #991b1b;
+        }
+
+        .rtt-good {
+            background: #dcfce7;
+            color: #166534;
+        }
+
+        .rtt-warning {
+            background: #fef3c7;
+            color: #92400e;
+        }
+
+        .rtt-breach {
+            background: #fee2e2;
+            color: #991b1b;
+        }
+
+        .rtt-critical {
+            background: #7f1d1d;
+            color: #fecaca;
+        }
+
+        /* Search bar container */    
+        .search-bar-surface {
+            background-color: var(--card-bg) !important;
+            border: 1px solid var(--card-border);
+            color: var(--text) !important;
+            transition: all 0.2s ease;
+        }
+
+        /* Table row hover */
+        .table-row-hover:hover {
+            background-color: #e2e8f0;
+        }
+
+        .dark .table-row-hover:hover {
+            background-color: #293548;
+        }
+
+        /* Search bar icon */
+        .search-icon {
+            color: var(--text-secondary);
         }
     </style>
 
@@ -63,8 +211,10 @@
     {% include "html_components/navbar.html" %}
 
     <main class="container mx-auto py-8 px-4">
+
         {% block content %}
         {% endblock %}
+
     </main>
 
     <footer class="border-t border-gray-300 dark:border-gray-800 mt-12 py-6 text-center text-gray-600 dark:text-gray-400 text-sm">
@@ -76,4 +226,5 @@
     {% endblock %}
 
 </body>
+
 </html>

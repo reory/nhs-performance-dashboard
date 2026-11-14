@@ -23,12 +23,15 @@ async def dashboard(request: Request):
     patients = get_all_patients()
 
     # Calculate the breaches (Patients that have been waiting more than 18 weeks)
-    breaches = [p for p in patients if p["wait_weeks"] > 18]
+    breaches = [p for p in patients if p["wait_weeks"] >= 18]
     breach_count = len(breaches)
 
     # Calculate the cancer logic
     cancer_patients = [p for p in patients if p["priority"] == "Two Week Wait (Cancer)"]
     cancer_count = len(cancer_patients)
+
+    # Calculate the KPI (key performance indicator)
+    critical_count = len([p for p in patients if p["wait_weeks"] >= 22])
 
     # Calculate the percentage
     total_count = len(patients)
@@ -54,6 +57,9 @@ async def dashboard(request: Request):
             "breach_count": breach_count,
             "breach_percent": breach_percent,
             "cancer_count": cancer_count,
+            "critical_count": critical_count,
+            "total_count": total_count,
             "avg_wait": round(avg_wait, 1),  # Round waiting times to make it clear.
+            
         },
     )
