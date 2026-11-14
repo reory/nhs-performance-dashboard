@@ -1,10 +1,12 @@
+import builtins
 import importlib
 from unittest.mock import MagicMock
-import builtins
+
 import scripts.view_all as view_module
 
 
 def test_view_all_script(monkeypatch):
+    """Verify the view-all script exports patient data."""
 
     # Fake DuckDB connection
     fake_con = MagicMock()

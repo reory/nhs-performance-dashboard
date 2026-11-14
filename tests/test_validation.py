@@ -1,8 +1,10 @@
+from datetime import date
+
+import nhs_number
 import pytest
 from pydantic import ValidationError
+
 from app.models import Patient
-from datetime import date
-import nhs_number
 
 
 def test_valid_nhs_number():

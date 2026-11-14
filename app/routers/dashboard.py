@@ -1,10 +1,10 @@
-from loguru import logger
-from fastapi.encoders import jsonable_encoder
 from fastapi import APIRouter, Request
+from fastapi.encoders import jsonable_encoder
 from fastapi.responses import HTMLResponse
 from fastapi.templating import Jinja2Templates
-from app.database import get_all_patients
+from loguru import logger
 
+from app.database import get_all_patients
 
 router = APIRouter()
 
@@ -14,6 +14,10 @@ templates = Jinja2Templates(directory="app/templates")
 
 @router.get("/", response_class=HTMLResponse)
 async def dashboard(request: Request):
+    """
+    Render the dashboard HTML template using context
+    data derived from the incoming request.
+    """
 
     # Fetch the data from DuckDB
     patients = get_all_patients()

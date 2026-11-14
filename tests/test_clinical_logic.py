@@ -1,12 +1,13 @@
 # This test simulates a patient who has been for one day over the 18 weeks mark!
 # This is the Referral to treatment logic. (RTT)
 
-from datetime import datetime, timedelta
+from datetime import UTC, datetime, timedelta
+
 
 def test_rtt_breach_calculation():
     """A patient waiting > 126 days must be flagged as a BREACH!"""
 
-    today = datetime.now().date()
+    today = datetime.now(UTC).date()
 
     # Create a referral date from 127 days ago (18 wks) A breach
     referral_date = today - timedelta(days=127)

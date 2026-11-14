@@ -1,9 +1,10 @@
+import random
+from datetime import UTC, datetime
+
 import duckdb
 import nhs_number
 from faker import Faker
-import random
 from loguru import logger
-from datetime import datetime
 from tqdm import tqdm
 
 # Locales list
@@ -84,7 +85,7 @@ def generate_pilot_data(n=1000):
 
         # Date logic: Referrals in the last 6 months
         ref_date = fake.date_between(start_date="-180d", end_date="today")
-        wait_weeks = (datetime.now().date() - ref_date).days // 7
+        wait_weeks = (datetime.now(UTC).date() - ref_date).days // 7
 
         patient = (
             random.choice(gp_practices),

@@ -1,9 +1,11 @@
-import scripts.generate_faker_data as gen
+from datetime import UTC, date, datetime
 from unittest.mock import MagicMock
-from datetime import datetime, date
+
+import scripts.generate_faker_data as gen
 
 
 def test_generate_pilot_data(monkeypatch):
+    """Verify generated patient data is written to DuckDB."""
 
     # Mock DuckDB connection
     fake_con = MagicMock()
@@ -13,7 +15,9 @@ def test_generate_pilot_data(monkeypatch):
 
     # Mock NHS number generator
     monkeypatch.setattr(
-        gen.nhs_number, "generate", lambda quantity, for_region: ["1234567890"]
+        gen.nhs_number, 
+        "generate", 
+        lambda quantity=1, for_region=None, **kwargs: ["1234567890"] * quantity,
     )
 
     fake_faker = MagicMock()
@@ -31,9 +35,11 @@ def test_generate_pilot_data(monkeypatch):
 
     # Mock datetime.now()
     class FakeDateTime:
+        """Mock datetime returning a fixed timestamp."""
+
         @staticmethod
-        def now():
-            return datetime(2025, 1, 30)  # 1 week after ref_date
+        def now(tz=UTC, **kwargs):
+            return datetime(2025, 1, 30, tzinfo=UTC)  # 1 week after ref_date
 
     monkeypatch.setattr(gen, "datetime", FakeDateTime)
 
@@ -47,7 +53,7 @@ def test_generate_pilot_data(monkeypatch):
     assert fake_con.executemany.called
 
     # Check inserted rows
-    args, kwargs = fake_con.executemany.call_args
+    args, _ = fake_con.executemany.call_args
     inserted_rows = args[1]
     assert len(inserted_rows) == 3
 

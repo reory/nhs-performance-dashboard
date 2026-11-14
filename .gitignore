@@ -4,6 +4,7 @@ venv/
 env/
 .pytest_cache/
 .hypothesis_cache/
+.ruff_cache/
 __pycache__/
 *.db
 .env
@@ -11,3 +12,4 @@ __pycache__/
 *.coverage
 *pytest.ini
 *.log
+*.xml

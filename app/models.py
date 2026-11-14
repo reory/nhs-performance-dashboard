@@ -1,31 +1,30 @@
-from pydantic import BaseModel, validator
 from datetime import date
-from loguru import logger
+
 import nhs_number
+from loguru import logger
+from pydantic import BaseModel, validator
 
 
 class Patient(BaseModel):
-    # Patients GP practice
+    """Represents a patient on a referral waiting list."""
+
     gp_practice: str
-    # Unique NHS identifier
     nhs_id: str
-    # Full patient name
     name: str
-    # Date of birth
     dob: date
-    # Clinical specialty the patient is referred to
     specialty: str
-    # Priority category (eg, urgent)
     priority: str
-    # Date the referral was made
     referral_date: date
-    # Calculated number of weeks the patient has been waiting
     wait_weeks: int
 
     # This tells Pydantic how to use the NHS library.
     @validator("nhs_id")
     @classmethod
     def validate_nhs_id(cls, v):
+        """
+        Normalise the NHS number by stripping spaces and punctuation,
+        ensuring it contains exactly 10 digits.
+        """
 
         logger.debug(f"Validating nhs ID: {v}")
 
