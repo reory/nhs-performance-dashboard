@@ -33,7 +33,7 @@ specialties = [
     "Gastroenterology",
     "Haematology",
     "Rheumatology",
-    "Pulmonolgy",
+    "Pulmonology",
     "Infectious Diseases",
 ]
 

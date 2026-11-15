@@ -68,6 +68,7 @@ It also provided an opportunity to work with DuckDB, FastAPI, Pydantic validatio
   <summary>click here</summary>
 
 ### Dashboard Overview
+
 - Dashboard overview showing key waiting-list KPIs, RTT breaches, cancer referrals, and average wait times.
 ![NHS Performance Dashboard](screenshots/1.png)
 
@@ -85,6 +86,9 @@ It also provided an opportunity to work with DuckDB, FastAPI, Pydantic validatio
 
 - RTT status indicators help operational teams quickly identify patients approaching breach thresholds and prioritise intervention before critical delays occur.
 ![NHS Performance Dashboard](screenshots/6.png)
+
+- Filter the waiting list by clinical specialty to quickly analyse RTT performance, patient demand, and priority referrals across individual services.
+![NHE Performance Dashboard](screenshots/7.png)
 
 </details>
 
