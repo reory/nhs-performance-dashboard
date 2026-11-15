@@ -37,6 +37,9 @@ async def dashboard(request: Request):
     total_count = len(patients)
     breach_percent = (breach_count / total_count * 100) if total_count > 0 else 0
 
+    # Extract unique specialties for the dropdown filter
+    specialties = sorted({p["specialty"] for p in patients})
+
     # Average wait time calculations
     if patients:
         avg_wait = sum(p["wait_weeks"] for p in patients) / len(patients)
@@ -59,6 +62,7 @@ async def dashboard(request: Request):
             "cancer_count": cancer_count,
             "critical_count": critical_count,
             "total_count": total_count,
+            "specialties": specialties,
             "avg_wait": round(avg_wait, 1),  # Round waiting times to make it clear.
             
         },

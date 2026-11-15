@@ -23,10 +23,22 @@
                    focus:border-blue-500 sm:text-sm">
         </div>
 
+        <!-- Specialty filter -->
+        <select id="specialtyFilter"
+            class="search-bar-surface px-3 py-2 rounded-lg text-sm">
+            <option value="">All Specialties</option>
+
+            {% for specialty in specialties %}
+                <option value="{{ specialty }}">
+                    {{ specialty }}
+                </option>
+            {% endfor %}
+        </select>
+
         <!-- Clear search button -->
         <button type="button"
                 id="clearSearch"
-                class="search-bar-surface px-4 py-2 text-sm font-medium rounded-lg 
+                class="search-bar-surface px-4 py-2 text-sm font-medium rounded-lg
                 transition-all shadow-sm whitespace-nowrap">
             Clear
         </button>

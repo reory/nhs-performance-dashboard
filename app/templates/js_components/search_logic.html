@@ -1,46 +1,86 @@
 (function() {
+    // Apply search and specialty filters to the waiting list
+    function applyFilters() {
+
+        const searchInput = document.getElementById('patientSearch');
+        const specialtyFilter = document.getElementById('specialtyFilter');
+
+        const term = searchInput.value.toLowerCase();
+        const selectedSpecialty = specialtyFilter.value;
+
+        const tableRows = document.querySelectorAll('tbody tr');
+        const statCardCount = document.querySelector('.patient-count-display');
+        const tableHeaderCount = document.getElementById('tablePatientCount');
+
+        let visibleCount = 0;
+
+        tableRows.forEach(row => {
+            
+            // Match both the search term and selected specialty
+            const matchesSearch =
+                row.textContent.toLowerCase().includes(term);
+
+            const matchesSpecialty =
+                !selectedSpecialty ||
+                row.dataset.specialty === selectedSpecialty;
+
+            if (matchesSearch && matchesSpecialty) {
+                row.style.display = "";
+                visibleCount++;
+            } else {
+                row.style.display = "none";
+            }
+        });
+
+        // Update visible patient counts
+        if (statCardCount) {
+            statCardCount.textContent = visibleCount;
+        }
+
+        if (tableHeaderCount) {
+            tableHeaderCount.textContent = visibleCount;
+        }
+    }
+
+    // Apply filtering as the user types
     document.addEventListener('keyup', function(e) {
         if (e.target && e.target.id === 'patientSearch') {
-            const term = e.target.value.toLowerCase();
-            const tableRows = document.querySelectorAll('tbody tr');
-            const statCardCount = document.querySelector('.patient-count-display');
-            const tableHeaderCount = document.getElementById('tablePatientCount'); 
-
-            let visibleCount = 0;
-
-            tableRows.forEach(row => {
-                if (row.cells.length > 0) {
-                    const text = row.textContent.toLowerCase();
-                    if (text.includes(term)) {
-                        row.style.display = "";
-                        visibleCount++;
-                    } else {
-                        row.style.display = "none";
-                    }
-                }
-            });
-
-            const displayCount = term ? visibleCount : tableRows.length;
-
-            if (statCardCount) statCardCount.textContent = displayCount;
-            if (tableHeaderCount) tableHeaderCount.textContent = displayCount; 
+            applyFilters();
         }
     });
 
+    // Apply filtering when the specialty changes
+    document.addEventListener('change', function(e) {
+        if (e.target && e.target.id === 'specialtyFilter') {
+            applyFilters();
+        }
+    });
+
+    // Reset all filters and restore the full waiting list
     document.addEventListener('click', function(e) {
+
         if (e.target && e.target.id === 'clearSearch') {
-            const searchInput = document.getElementById('patientSearch');
-            const tableRows = document.querySelectorAll('tbody tr');
-            const statCardCount = document.querySelector('.patient-count-display');
-            const tableHeaderCount = document.getElementById('tablePatientCount'); 
 
-            if (searchInput) searchInput.value = '';
-            tableRows.forEach(row => row.style.display = "");
+            const searchInput =
+                document.getElementById('patientSearch');
 
-            const total = tableRows.length;
-            if (statCardCount) statCardCount.textContent = total;
-            if (tableHeaderCount) tableHeaderCount.textContent = total;
-            if (searchInput) searchInput.focus();
+            const specialtyFilter =
+                document.getElementById('specialtyFilter');
+
+            if (searchInput) {
+                searchInput.value = '';
+            }
+
+            if (specialtyFilter) {
+                specialtyFilter.value = '';
+            }
+
+            applyFilters();
+
+            if (searchInput) {
+                searchInput.focus();
+            }
         }
     });
+
 })();

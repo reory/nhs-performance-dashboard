@@ -2,7 +2,7 @@ from datetime import date
 
 import nhs_number
 from loguru import logger
-from pydantic import BaseModel, validator
+from pydantic import BaseModel, field_validator
 
 
 class Patient(BaseModel):
@@ -18,7 +18,7 @@ class Patient(BaseModel):
     wait_weeks: int
 
     # This tells Pydantic how to use the NHS library.
-    @validator("nhs_id")
+    @field_validator("nhs_id")
     @classmethod
     def validate_nhs_id(cls, v):
         """

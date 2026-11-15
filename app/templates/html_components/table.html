@@ -68,7 +68,8 @@
 
                 {% for patient in patients %}
 
-                <tr class="table-row-hover transition-colors">
+                <tr class="table-row-hover transition-colors"
+                    data-specialty="{{ patient.specialty }}">
 
                     <td class="table-cell">
                         {{ patient.gp_practice }}

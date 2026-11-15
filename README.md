@@ -227,7 +227,7 @@ uv run pytest
 - [x] Enhanced RTT Monitoring
 Highlight patients approaching or exceeding the 18-week RTT target using additional visual indicators and status badges.
 
-- [ ] Specialty Filtering
+- [x] Specialty Filtering
 Filter the waiting list by clinical specialty to analyse service demand and RTT pressures.
 
 - [ ] Sortable Waiting List

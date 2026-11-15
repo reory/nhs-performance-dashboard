@@ -6,6 +6,7 @@ env/
 .hypothesis_cache/
 .ruff_cache/
 __pycache__/
+*.txt
 *.db
 .env
 .vscode
